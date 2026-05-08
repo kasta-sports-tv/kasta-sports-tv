@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
+#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/CazéTV_logo.svg/1280px-CazéTV_logo.svg.png",Caze TV
+https://kasta-sports-tv.pages.dev/nl/cazetv/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2370" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setua.png",Setanta Sports UA
 https://kasta-sports-tv.pages.dev/nl/setua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="6860" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA
