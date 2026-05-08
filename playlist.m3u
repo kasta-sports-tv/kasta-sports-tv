@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
-#EXTINF:-1 group-title="Спорт" tvg-id="2370" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/62175f03-252b-498f-949f-4fad869d4626.png",Setanta Sports UA
+#EXTINF:-1 group-title="Спорт" tvg-id="2370" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setua.png",Setanta Sports UA
 https://kasta-sports-tv.pages.dev/nl/setua/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="6860" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png",Setanta Sports+ UA
+#EXTINF:-1 group-title="Спорт" tvg-id="6860" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA
 https://kasta-sports-tv.pages.dev/nl/setuaplus/tracks-v1a1/mono.m3u8
