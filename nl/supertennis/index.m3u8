@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/audio_manifest.m3u8",GROUP-ID="default-audio-group",LANGUAGE="en",NAME="stream_3",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=3249075,AVERAGE-BANDWIDTH=2745003,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=853x480,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/h264_480p_manifest.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3852681,AVERAGE-BANDWIDTH=3248943,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/h264_720p_manifest.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=7039406,AVERAGE-BANDWIDTH=6284574,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/h264_1080p_manifest.m3u8
