@@ -6,3 +6,5 @@ https://kasta-sports-tv.pages.dev/nl/cazetv/index.m3u8
 https://kasta-sports-tv.pages.dev/nl/setua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="6860" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA
 https://kasta-sports-tv.pages.dev/nl/setuaplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="9324" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkoprime.png",Окко Прайм Спорт
+https://kasta-sports-tv.pages.dev/nl/okkoprime/tracks-v1a1/mono.m3u8
