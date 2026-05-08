@@ -2,6 +2,10 @@
 
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/cazetv.png",Caze TV
 https://kasta-sports-tv.pages.dev/nl/cazetv/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="7238" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-1.png",Setanta Sports 1
+https://kasta-sports-tv.pages.dev/nl/set-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="7239" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-2.png",Setanta Sports 2
+https://kasta-sports-tv.pages.dev/nl/set-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2370" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setua.png",Setanta Sports UA
 https://kasta-sports-tv.pages.dev/nl/setua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="6860" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA
