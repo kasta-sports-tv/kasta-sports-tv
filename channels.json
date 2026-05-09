@@ -7,10 +7,66 @@
     "tvgId": "cazetv"
   },
   {
+    "name": "ONE 1",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/one-1.png",
+    "url": "/nl/one-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "2691"
+  },
+  {
+    "name": "ONE 2",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/one-2.png",
+    "url": "/nl/one-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "2704"
+  },
+  {
+    "name": "Setanta Sports 1",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/set-1.png",
+    "url": "/nl/set-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "7238"
+  },
+  {
+    "name": "Setanta Sports 2",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/set-2.png",
+    "url": "/nl/set-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "7239"
+  },
+  {
+    "name": "Setanta Sports UA",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/setua.png",
+    "url": "/nl/setua/tracks-v1a1/mono.m3u8",
+    "tvgId": "2370"
+  },
+  {
+    "name": "Setanta Sports+ UA",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/setuaplus.png",
+    "url": "/nl/setuaplus/tracks-v1a1/mono.m3u8",
+    "tvgId": "6860"
+  },
+  {
     "name": "Super Tennis",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/supertennis.png",
     "url": "/nl/supertennis/index.m3u8",
     "tvgId": "3117"
+  },
+  {
+    "name": "Окко Прайм Спорт",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/okkoprimesport.png",
+    "url": "/nl/okkoprime/tracks-v1a1/mono.m3u8",
+    "tvgId": "9324"
+  },
+  {
+    "name": "Окко Футбол",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/okkofoot.png",
+    "url": "/nl/okkofoot/tracks-v1a1/mono.m3u8",
+    "tvgId": "9325"
   }
 ]
