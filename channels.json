@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Caze TV",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/cazetv.png",
+    "url": "/nl/cazetv/index.m3u8",
+    "tvgId": "cazetv"
+  },
+  {
+    "name": "Super Tennis",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/supertennis.png",
+    "url": "/nl/supertennis/index.m3u8",
+    "tvgId": "supertennis"
+  }
+]
