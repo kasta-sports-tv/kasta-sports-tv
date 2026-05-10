@@ -49,6 +49,41 @@
     "tvgId": "6860"
   },
   {
+    "name": "Sport 1 IL",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/sport-1il.png",
+    "url": "/nl/sport-1il/tracks-v1a1/mono.m3u8",
+    "tvgId": "2684"
+  },
+  {
+    "name": "Sport 2 IL",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/sport-2il.png",
+    "url": "/nl/sport-2il/tracks-v1a1/mono.m3u8",
+    "tvgId": "2683"
+  },
+  {
+    "name": "Sport 3 IL",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/sport-3il.png",
+    "url": "/nl/sport-3il/tracks-v1a1/mono.m3u8",
+    "tvgId": "2719"
+  },
+  {
+    "name": "Sport 4 IL",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/sport-4il.png",
+    "url": "/nl/sport-4il/tracks-v1a1/mono.m3u8",
+    "tvgId": "2720"
+  },
+  {
+    "name": "Sport 5 IL",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/sport-5il.png",
+    "url": "/nl/sport-5il/tracks-v1a1/mono.m3u8",
+    "tvgId": "2682"
+  },
+  {
     "name": "Super Tennis",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/supertennis.png",
