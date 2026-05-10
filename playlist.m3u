@@ -14,6 +14,16 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/set-2/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/setua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="6860" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA
 https://ua.kasta-sports-tv.workers.dev/play/nl/setuaplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2684" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-1il.png",Sport 1 IL
+https://ua.kasta-sports-tv.workers.dev/play/nl-sport-1il/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2683" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-2il.png",Sport 2 IL
+https://ua.kasta-sports-tv.workers.dev/play/nl-sport-2il/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2719" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-3il.png",Sport 3 IL
+https://ua.kasta-sports-tv.workers.dev/play/nl-sport-3il/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2720" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-4il.png",Sport 4 IL
+https://ua.kasta-sports-tv.workers.dev/play/nl-sport-4il/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2682" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-5il.png",Sport 5 IL
+https://ua.kasta-sports-tv.workers.dev/play/nl-sport-5il/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="3117" tvg-logo="https://kasta-sports-tv.pages.dev/logo/supertennis.png",Super Tennis
 https://ua.kasta-sports-tv.workers.dev/play/nl/supertennis/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="9324" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkoprimesport.png",Окко Прайм Спорт
