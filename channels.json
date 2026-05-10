@@ -108,7 +108,7 @@
     "name": "Окко Чемпионат",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkochamp.png",
-    "url": "/nl/okkofoot/manifest.m3u8",
+    "url": "/nl/okkochamp/manifest.m3u8",
     "tvgId": ""
   }
 ]
