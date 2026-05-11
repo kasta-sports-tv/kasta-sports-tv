@@ -91,6 +91,27 @@
     "tvgId": "3117"
   },
   {
+    "name": "Матч! Футбол 1",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-1.png",
+    "url": "/nl/mfoot-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "2044"
+  },
+  {
+    "name": "Матч! Футбол 2",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-2.png",
+    "url": "/nl/mfoot-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "1042"
+  },
+  {
+    "name": "Матч! Футбол 3",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-3.png",
+    "url": "/nl/mfoot-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "2005"
+  },
+  {
     "name": "Окко Прайм Спорт",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkoprimesport.png",
