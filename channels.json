@@ -7,6 +7,13 @@
     "tvgId": "cazetv"
   },
   {
+    "name": "Maincast Sport",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/maincastsp.png",
+    "url": "/nl/maincastsp/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "ONE 1",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/one-1.png",
