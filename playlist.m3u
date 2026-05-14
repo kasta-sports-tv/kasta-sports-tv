@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
-#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/arenasp-1.png",Arena Sport 1
+#EXTINF:-1 group-title="Спорт" tvg-id="9274" tvg-logo="https://kasta-sports-tv.pages.dev/logo/arenasp-1.png",Arena Sport 1 RS
 https://ua.kasta-sports-tv.workers.dev/play/nl/arenasp-1sr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/cazetv.png",Caze TV
 https://ua.kasta-sports-tv.workers.dev/play/nl/cazetv/index.m3u8
