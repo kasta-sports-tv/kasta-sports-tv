@@ -7,6 +7,13 @@
     "tvgId": "9274"
   },
   {
+    "name": "Betking Live 1",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/betking-1.png",
+    "url": "/nl/betking-1/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "Caze TV",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/cazetv.png",
