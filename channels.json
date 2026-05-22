@@ -35,6 +35,13 @@
     "tvgId": ""
   },
   {
+    "name": "Nova Sport BG",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/novaspbg.png",
+    "url": "/nl/novaspbg/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "ONE 1",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/one-1.png",
