@@ -14,6 +14,13 @@
     "tvgId": ""
   },
   {
+    "name": "BTV Action",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/btvact.png",
+    "url": "/nl/btvact/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "Caze TV",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/cazetv.png",
