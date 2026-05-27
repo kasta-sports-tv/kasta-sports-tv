@@ -21,6 +21,13 @@
     "tvgId": "cazetv"
   },
   {
+    "name": "Eurosport 1",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/eurosp-1.png",
+    "url": "/nl/eurosp-1/tracks-v1a18/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "Eurosport 2",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/eurosp-2.png",
