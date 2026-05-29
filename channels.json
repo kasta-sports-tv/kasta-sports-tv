@@ -14,6 +14,13 @@
     "tvgId": "88021"
   },
   {
+    "name": "Betking Live 2",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/betking-2.png",
+    "url": "/nl/betking-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "88022"
+  },
+  {
     "name": "BTV Action",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/btvact.png",
