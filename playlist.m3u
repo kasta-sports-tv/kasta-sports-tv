@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Спорт" tvg-id="9274" tvg-logo="https://kasta-sports-tv.pages.dev/logo/arenasp-1.png",Arena Sport 1 RS
 https://ua.kasta-sports-tv.workers.dev/play/nl/arenasp-1sr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-1.png",Betking Live 1
+#EXTINF:-1 group-title="Спорт" tvg-id="88021" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-1.png",Betking Live 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/btvact.png",BTV Action
 https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
