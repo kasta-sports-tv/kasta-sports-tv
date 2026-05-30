@@ -1,5 +1,12 @@
 [
   {
+    "name": "Arena Premium 1",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/9016.png",
+    "url": "/nl/arena-1prem/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "Arena Sport 1 RS",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/arenasp-1.png",
