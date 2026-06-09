@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:1,
+http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
