@@ -63,6 +63,13 @@
     "tvgId": ""
   },
   {
+    "name": "FS 2",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/7925.png",
+    "url": "/nl/fs-2/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "FUBO Sports Network",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7930.png",
