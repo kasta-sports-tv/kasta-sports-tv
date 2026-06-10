@@ -17,7 +17,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-1/tracks-v1a18/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/eurosp-2.png",Eurosport 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-2/tracks-v1a18/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="http://1lot.tv/ch/7924.png",FS 1
-https://ua.kasta-sports-tv.workers.dev/play/nl/fs-1/index.m3u8
+https://ua.kasta-sports-tv.workers.dev/play/nl/fs-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="http://1lot.tv/ch/7925.png",FS 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/fs-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="http://1lot.tv/ch/7930.png",FUBO Sports Network 
