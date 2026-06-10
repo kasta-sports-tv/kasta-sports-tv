@@ -229,5 +229,12 @@
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkochamp.png",
     "url": "/nl/okkochamp/manifest.m3u8",
     "tvgId": ""
+  },
+  {
+    "name": "Суспільне Спорт",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/9046.png",
+    "url": "/nl/suspsport/index.m3u8",
+    "tvgId": ""
   }
 ]
