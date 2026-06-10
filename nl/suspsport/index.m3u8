@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud_hi",NAME="Українська",DEFAULT=YES,LANGUAGE="UKR",URI="https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__audio_ukr_high.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud_mid",NAME="Українська",DEFAULT=YES,LANGUAGE="UKR",URI="https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__audio_ukr_mid.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud_low",NAME="Українська",DEFAULT=YES,LANGUAGE="UKR",URI="https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__audio_ukr_low.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud_low2",NAME="Українська",DEFAULT=YES,LANGUAGE="UKR",URI="https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__audio_ukr_low2.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=6556000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="aud_hi"
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__video_high.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2120800,RESOLUTION=960x540,CODECS="avc1.640029,mp4a.40.2",AUDIO="aud_mid"
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__video_mid.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=510400,RESOLUTION=640x360,CODECS="avc1.640029,mp4a.40.2",AUDIO="aud_low"
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__video_low.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=255200,RESOLUTION=426x240,CODECS="avc1.640029,mp4a.40.2",AUDIO="aud_low2"
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Suspilne-Sport/Suspilne-Sport-StreamOnline__video_low2.m3u8
