@@ -189,6 +189,13 @@
     "tvgId": "3117"
   },
   {
+    "name": "Матч! Премьер",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/1423.png",
+    "url": "/nl/mprem/tracks-v1a1/mono.m3u8",
+    "tvgId": "2250"
+  },
+  {
     "name": "Матч! Футбол 1",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-1.png",
