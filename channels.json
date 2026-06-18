@@ -189,6 +189,13 @@
     "tvgId": "3117"
   },
   {
+    "name": "TSN 1",
+    "group": "Спорт",
+    "logo": "http://epg.one/img2/3663.png",
+    "url": "/nl/tsn-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "3663"
+  },
+  {
     "name": "Матч! Премьер",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/1423.png",
