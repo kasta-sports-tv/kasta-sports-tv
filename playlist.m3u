@@ -30,6 +30,8 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/joj-1/index.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/kastasp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/maincastsp.png",Maincast Sport
 https://ua.kasta-sports-tv.workers.dev/play/nl/maincastsp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="9648" tvg-logo="https://iptvx.one/picons/megogo-sport.png",Megogo Спорт
+https://ua.kasta-sports-tv.workers.dev/play/nl/megosp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/novaspbg.png",Nova Sport BG
 https://ua.kasta-sports-tv.workers.dev/play/nl/novaspbg/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2691" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-1.png",ONE 1
