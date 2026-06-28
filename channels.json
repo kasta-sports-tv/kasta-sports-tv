@@ -105,6 +105,13 @@
     "tvgId": ""
   },
   {
+    "name": "Megogo Спорт",
+    "group": "Спорт",
+    "logo": "https://iptvx.one/picons/megogo-sport.png",
+    "url": "/nl/megosp/tracks-v1a1/mono.m3u8",
+    "tvgId": "9648"
+  },
+  {
     "name": "Nova Sport BG",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/novaspbg.png",
