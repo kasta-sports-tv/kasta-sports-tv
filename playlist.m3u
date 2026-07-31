@@ -14,6 +14,12 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/cazetv/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2902" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kih3iw1701160131.png",Eleven Sports 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/eleven-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2901" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y37tax1701160140.png",Eleven Sports 2
+https://ua.kasta-sports-tv.workers.dev/play/nl/eleven-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7gnrhg1701160157.png",Eleven Sports 3
+https://ua.kasta-sports-tv.workers.dev/play/nl/eleven-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kjp6lk1701160165.png",Eleven Sports 4
+https://ua.kasta-sports-tv.workers.dev/play/nl/eleven-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="6513" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",ESPN BR
 https://ua.kasta-sports-tv.workers.dev/play/nl/espn-1br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/eurosp-1.png",Eurosport 1
