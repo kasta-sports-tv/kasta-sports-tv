@@ -12,9 +12,14 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/betking-2/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/cazetv.png",Caze TV
 https://ua.kasta-sports-tv.workers.dev/play/nl/cazetv/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2907" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Digi_Sport_1_symbol_2012.png",DIGI Sport 1
+#EXTINF:-1 group-title="Спорт" tvg-id="2907" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Digi_Sport_1_symbol_2019.png",DIGI Sport 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/digi-1/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Спорт" tvg-id="2906" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Digi_Sport_2_symbol_3D.png",DIGI Sport 2
+https://ua.kasta-sports-tv.workers.dev/play/nl/digi-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2908" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Digi_Sport_3_3D_2019.png",DIGI Sport 3
+https://ua.kasta-sports-tv.workers.dev/play/nl/digi-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2922" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Digi_Sport_4_symbol.png",DIGI Sport 4
+https://ua.kasta-sports-tv.workers.dev/play/nl/digi-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2902" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kih3iw1701160131.png",Eleven Sports 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/eleven-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2901" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y37tax1701160140.png",Eleven Sports 2
