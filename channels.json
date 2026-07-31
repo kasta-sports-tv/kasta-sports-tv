@@ -42,6 +42,13 @@
     "tvgId": "cazetv"
   },
   {
+    "name": "DIGI Sport 1",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png",
+    "url": "/nl/digi-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "2907"
+  },
+  {
     "name": "Eleven Sports 1",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kih3iw1701160131.png",
