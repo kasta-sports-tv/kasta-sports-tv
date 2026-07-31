@@ -44,9 +44,30 @@
   {
     "name": "DIGI Sport 1",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b8/Digi_Sport_1_symbol_2012.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/Digi_Sport_1_symbol_2019.png",
     "url": "/nl/digi-1/tracks-v1a1/mono.m3u8",
     "tvgId": "2907"
+  },
+  {
+    "name": "DIGI Sport 2",
+    "group": "Спорт",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/ca/Digi_Sport_2_symbol_3D.png",
+    "url": "/nl/digi-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "2906"
+  },
+  {
+    "name": "DIGI Sport 3",
+    "group": "Спорт",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0b/Digi_Sport_3_3D_2019.png",
+    "url": "/nl/digi-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "2908"
+  },
+  {
+    "name": "DIGI Sport 4",
+    "group": "Спорт",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/Digi_Sport_4_symbol.png",
+    "url": "/nl/digi-4/tracks-v1a1/mono.m3u8",
+    "tvgId": "2922"
   },
   {
     "name": "Eleven Sports 1",
