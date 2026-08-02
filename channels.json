@@ -107,14 +107,14 @@
   {
     "name": "Eurosport 1",
     "group": "Спорт",
-    "logo": "https://kasta-sports-tv.pages.dev/logo/eurosp-1.png",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",
     "url": "/nl/eurosp-1/tracks-v1a18/mono.m3u8",
     "tvgId": ""
   },
   {
     "name": "Eurosport 2",
     "group": "Спорт",
-    "logo": "https://kasta-sports-tv.pages.dev/logo/eurosp-2.png",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",
     "url": "/nl/eurosp-2/tracks-v1a18/mono.m3u8",
     "tvgId": ""
   },
