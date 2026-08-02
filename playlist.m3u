@@ -30,7 +30,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/eleven-3/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/eleven-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="6513" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",ESPN BR
 https://ua.kasta-sports-tv.workers.dev/play/nl/espn-1br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",Eurosport 1
+#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png",Eurosport 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-1/tracks-v1a18/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",Eurosport 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-2/tracks-v1a18/mono.m3u8
