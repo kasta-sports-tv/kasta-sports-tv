@@ -266,6 +266,27 @@
     "tvgId": "3663"
   },
   {
+    "name": "TSN 2",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png",
+    "url": "/nl/tsn-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "3635"
+  },
+  {
+    "name": "TSN 3",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
+    "url": "/nl/tsn-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "3664"
+  },
+  {
+    "name": "TSN 4",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png",
+    "url": "/nl/tsn-4/tracks-v1a1/mono.m3u8",
+    "tvgId": "3588"
+  },
+  {
     "name": "Матч! Премьер",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/1423.png",
