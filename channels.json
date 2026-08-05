@@ -44,14 +44,14 @@
   {
     "name": "DIGI Sport 1",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/Digi_Sport_1_symbol_2019.png",
+    "logo": "http://1lot.tv/ch/8772.png"",
     "url": "/nl/digi-1/tracks-v1a1/mono.m3u8",
     "tvgId": "2907"
   },
   {
     "name": "DIGI Sport 2",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/ca/Digi_Sport_2_symbol_3D.png",
+    "logo": "http://1lot.tv/ch/8773.png"",
     "url": "/nl/digi-2/tracks-v1a1/mono.m3u8",
     "tvgId": "2906"
   },
@@ -79,21 +79,21 @@
   {
     "name": "Eleven Sports 2",
     "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/y37tax1701160140.png",
+    "logo": "http://1lot.tv/ch/6364.png",
     "url": "/nl/eleven-2/tracks-v1a1/mono.m3u8",
     "tvgId": "2901"
   },
   {
     "name": "Eleven Sports 3",
     "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/7gnrhg1701160157.png",
+    "logo": "http://1lot.tv/ch/6365.png",
     "url": "/nl/eleven-3/tracks-v1a1/mono.m3u8",
     "tvgId": ""
   },
   {
     "name": "Eleven Sports 4",
     "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kjp6lk1701160165.png",
+    "logo": "http://1lot.tv/ch/6366.png",
     "url": "/nl/eleven-4/tracks-v1a1/mono.m3u8",
     "tvgId": ""
   },
