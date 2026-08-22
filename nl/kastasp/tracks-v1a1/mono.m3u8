@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",NAME=""
-https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="source"
+https://cors.orestlutij9.workers.dev/?url=https%3A%2F%2F7nyaler.streamhostingcdn.top%2Fstream%2F9%2Findex.m3u8
