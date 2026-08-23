@@ -42,6 +42,13 @@
     "tvgId": "cazetv"
   },
   {
+    "name": "Cosmote Sport 1",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/a544c21630100843.png",
+    "url": "/nl/cosmot-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "9251"
+  },
+  {
     "name": "Diema Sport",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
