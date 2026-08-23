@@ -42,6 +42,20 @@
     "tvgId": "cazetv"
   },
   {
+    "name": "Diema Sport",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
+    "url": "/nl/diema-1/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
+    "name": "Diema Sport 2",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",
+    "url": "/nl/diema-2/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "DIGI Sport 1",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8772.png",
