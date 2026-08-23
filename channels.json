@@ -154,6 +154,34 @@
     "tvgId": ""
   },
   {
+    "name": "Max Sport 1",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",
+    "url": "/nl/maxsp-1/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
+    "name": "Max Sport 2",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png",
+    "url": "/nl/maxsp-2/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
+    "name": "Max Sport 3",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png",
+    "url": "/nl/maxsp-3/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
+    "name": "Max Sport 4",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png",
+    "url": "/nl/maxsp-4/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "Megogo Спорт",
     "group": "Спорт",
     "logo": "https://iptvx.one/picons/megogo-sport.png",
