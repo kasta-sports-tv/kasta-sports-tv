@@ -106,7 +106,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/mfoot-2/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/mfoot-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="9324" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkoprimesport.png",Окко Прайм Спорт
 https://ua.kasta-sports-tv.workers.dev/play/nl/okkoprime/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="9325" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkofoot.png",Окко Футбол
+#EXTINF:-1 group-title="Спорт" tvg-id="okko-football" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkofoot.png",Окко Футбол
 https://ua.kasta-sports-tv.workers.dev/play/nl/okkofoot/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkochamp.png",Окко Чемпионат
 https://ua.kasta-sports-tv.workers.dev/play/nl/okkochamp/manifest.m3u8
