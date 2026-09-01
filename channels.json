@@ -1,14 +1,14 @@
 [
   {
     "name": "Diema Sport",
-    "group": "",
+    "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
     "url": "/nl/diema-1/tracks-v1a1/mono.m3u8",
     "tvgId": "11847"
   },
   {
     "name": "Diema Sport 2",
-    "group": "",
+    "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",
     "url": "/nl/diema-2/tracks-v1a1/mono.m3u8",
     "tvgId": "11846"
@@ -22,7 +22,7 @@
   },
   {
     "name": "Суспільне Спорт",
-    "group": "",
+    "group": "Спорт",
     "logo": "http://epg.one/img2/8872.png",
     "url": "/nl/suspsport/index.m3u8",
     "tvgId": "8872"
