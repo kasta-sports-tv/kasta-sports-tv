@@ -7,6 +7,13 @@
     "tvgId": "88021"
   },
   {
+    "name": "Betking Live 2",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/betking-2.png",
+    "url": "/nl/betking-2/index.m3u8",
+    "tvgId": "88022"
+  },
+  {
     "name": "Diema Sport",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
