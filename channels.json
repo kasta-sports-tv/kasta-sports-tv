@@ -126,6 +126,27 @@
     "tvgId": "3117"
   },
   {
+    "name": "Окко Прайм Спорт",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/okkoprime.png",
+    "url": "/nl/okkoprime/tracks-v1a1/mono.m3u8",
+    "tvgId": "9324"
+  },
+  {
+    "name": "Окко Футбол",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/okkofootball.png",
+    "url": "/nl/okkofoot/tracks-v1a1/mono.m3u8",
+    "tvgId": "9325"
+  },
+  {
+    "name": "Окко Чемпионат",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/okkochampion.png",
+    "url": "/nl/okkochamp/manifest.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "Суспільне Спорт",
     "group": "Спорт",
     "logo": "http://epg.one/img2/8872.png",
