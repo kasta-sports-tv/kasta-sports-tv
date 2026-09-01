@@ -133,6 +133,13 @@
     "tvgId": "9324"
   },
   {
+    "name": "Окко Спорт",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/okkosport.png",
+    "url": "/nl/okkosp/tracks-v1a1/mono.m3u8",
+    "tvgId": "7889"
+  },
+  {
     "name": "Окко Футбол",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkofootball.png",
