@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
+#EXTINF:-1 group-title="Спорт" tvg-id="88021" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-1.png",Betking Live 1
+https://ua.kasta-sports-tv.workers.dev/play/nl/betking-1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="11847" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",Diema Sport
 https://ua.kasta-sports-tv.workers.dev/play/nl/diema-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="11846" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",Diema Sport 2
