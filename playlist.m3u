@@ -4,10 +4,16 @@
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="88022" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-2.png",Betking Live 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-2/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="11768" tvg-logo="https://kasta-sports-tv.pages.dev/logo/btvact.png",BTV Action
+https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="11847" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",Diema Sport
 https://ua.kasta-sports-tv.workers.dev/play/nl/diema-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="11846" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",Diema Sport 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/diema-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2907" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png",DIGI Sport 1
+https://ua.kasta-sports-tv.workers.dev/play/nl/digi-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="2906" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vqqrrq1436105445.png",DIGI Sport 2
+https://ua.kasta-sports-tv.workers.dev/play/nl/digi-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/kastasports.png",Kasta Sports
 https://ua.kasta-sports-tv.workers.dev/play/nl/kastasp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",MAX Sport 1
