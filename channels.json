@@ -14,6 +14,13 @@
     "tvgId": "88022"
   },
   {
+    "name": "BTV Action",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/btvact.png",
+    "url": "/nl/btvact/tracks-v1a1/mono.m3u8",
+    "tvgId": "11768"
+  },
+  {
     "name": "Diema Sport",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
@@ -61,6 +68,13 @@
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png",
     "url": "/nl/maxsp-4/tracks-v1a1/mono.m3u8",
     "tvgId": ""
+  },
+  {
+    "name": "Nova Sport BG",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/novaspbg.png",
+    "url": "/nl/novaspbg/tracks-v1a1/mono.m3u8",
+    "tvgId": "2898"
   },
   {
     "name": "Setanta Sports UA",
