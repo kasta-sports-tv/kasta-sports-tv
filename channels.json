@@ -14,6 +14,13 @@
     "tvgId": "11846"
   },
   {
+    "name": "Kasta Sports",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/kastasports.png",
+    "url": "/nl/kastasp/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
+  },
+  {
     "name": "Суспільне Спорт",
     "group": "",
     "logo": "http://epg.one/img2/8872.png",
