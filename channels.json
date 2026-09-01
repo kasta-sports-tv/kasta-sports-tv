@@ -63,6 +63,20 @@
     "tvgId": ""
   },
   {
+    "name": "Setanta Sports UA",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/setua.png",
+    "url": "/nl/setua/tracks-v1a1/mono.m3u8",
+    "tvgId": "2370"
+  },
+  {
+    "name": "Setanta Sports+ UA",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/setuaplus.png",
+    "url": "/nl/setuaplus/tracks-v1a1/mono.m3u8",
+    "tvgId": "6860"
+  },
+  {
     "name": "Суспільне Спорт",
     "group": "Спорт",
     "logo": "http://epg.one/img2/8872.png",
