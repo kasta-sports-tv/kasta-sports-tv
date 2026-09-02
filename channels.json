@@ -165,28 +165,28 @@
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/1423.png",
     "url": "/nl/mprem/tracks-v1a1/mono.m3u8",
-    "tvgId": "2250"
+    "tvgId": "match-premier"
   },
   {
     "name": "Матч! Футбол 1",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-1.png",
     "url": "/nl/mfoot-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "2044"
+    "tvgId": "match-football1"
   },
   {
     "name": "Матч! Футбол 2",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-2.png",
     "url": "/nl/mfoot-2/tracks-v1a1/mono.m3u8",
-    "tvgId": "1042"
+    "tvgId": "match-football2"
   },
   {
     "name": "Матч! Футбол 3",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-3.png",
     "url": "/nl/mfoot-3/tracks-v1a1/mono.m3u8",
-    "tvgId": "2005"
+    "tvgId": "match-football3"
   },
   {
     "name": "Окко Прайм Спорт",
