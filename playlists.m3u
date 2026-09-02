@@ -1,1 +1,4 @@
 #EXTM3U x-tvg-url="http://1lot.tv/epg/epg.xml.gz"
+
+#EXTINF:-1 group-title="Спорт" tvg-id="88021" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-1.png",Betking Live 1
+https://ua.kasta-sports-tv.workers.dev/play/nl
