@@ -4,119 +4,119 @@
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/betking-1.png",
     "url": "/nl/betking-1/index.m3u8",
-    "tvgId": "88021"
+    "tvgId": "no_epg_sport"
   },
   {
     "name": "Betking Live 2",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/betking-2.png",
     "url": "/nl/betking-2/index.m3u8",
-    "tvgId": "88022"
+    "tvgId": "no_epg_sport"
   },
   {
     "name": "BTV Action",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/btvact.png",
     "url": "/nl/btvact/tracks-v1a1/mono.m3u8",
-    "tvgId": "11768"
+    "tvgId": "bTV_Action_bg"
   },
   {
     "name": "Diema Sport",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
     "url": "/nl/diema-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "11847"
+    "tvgId": "diema-sport-1-bg"
   },
   {
     "name": "Diema Sport 2",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",
     "url": "/nl/diema-2/tracks-v1a1/mono.m3u8",
-    "tvgId": "11846"
+    "tvgId": "diema-sport-2-bg"
   },
   {
     "name": "DIGI Sport 1",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png",
     "url": "/nl/digi-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "2907"
+    "tvgId": "digisport1"
   },
   {
     "name": "DIGI Sport 2",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/vqqrrq1436105445.png",
     "url": "/nl/digi-2/tracks-v1a1/mono.m3u8",
-    "tvgId": "2906"
+    "tvgId": "digisport2"
   },
   {
     "name": "Kasta Sports",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/kastasports.png",
     "url": "/nl/kastasp/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "no_epg_sport"
   },
   {
     "name": "MAX Sport 1",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",
     "url": "/nl/maxsp-1/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "max-sport-1"
   },
   {
     "name": "MAX Sport 2",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png",
     "url": "/nl/maxsp-2/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "max-sport-2"
   },
   {
     "name": "MAX Sport 3",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png",
     "url": "/nl/maxsp-3/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "max-sport-3"
   },
   {
     "name": "MAX Sport 4",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png",
     "url": "/nl/maxsp-4/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "max-sport-4"
   },
   {
     "name": "Nova Sport BG",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/novaspbg.png",
     "url": "/nl/novaspbg/tracks-v1a1/mono.m3u8",
-    "tvgId": "2898"
+    "tvgId": "nova-sport-bg"
   },
   {
     "name": "Setanta Sports 1",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-1.png",
     "url": "/nl/set-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "7517"
+    "tvgId": "setanta-sports"
   },
   {
     "name": "Setanta Sports 2",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-2.png",
     "url": "/nl/set-2/tracks-v1a1/mono.m3u8",
-    "tvgId": "2363"
+    "tvgId": "setanta-sports-plus"
   },
   {
     "name": "Setanta Sports UA",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/setua.png",
     "url": "/nl/setua/tracks-v1a1/mono.m3u8",
-    "tvgId": "2370"
+    "tvgId": "setanta-ua"
   },
   {
     "name": "Setanta Sports+ UA",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/setuaplus.png",
     "url": "/nl/setuaplus/tracks-v1a1/mono.m3u8",
-    "tvgId": "6860"
+    "tvgId": "setanta-plus-ua"
   },
   {
     "name": "Super Tennis",
@@ -130,34 +130,34 @@
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkoprime.png",
     "url": "/nl/okkoprime/tracks-v1a1/mono.m3u8",
-    "tvgId": "9324"
+    "tvgId": "okko-sport-2"
   },
   {
     "name": "Окко Спорт",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkosport.png",
     "url": "/nl/okkosp/tracks-v1a1/mono.m3u8",
-    "tvgId": "7889"
+    "tvgId": "okko-sport"
   },
   {
     "name": "Окко Футбол",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkofootball.png",
     "url": "/nl/okkofoot/tracks-v1a1/mono.m3u8",
-    "tvgId": "9325"
+    "tvgId": "okko-football"
   },
   {
     "name": "Окко Чемпионат",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkochampion.png",
     "url": "/nl/okkochamp/manifest.m3u8",
-    "tvgId": ""
+    "tvgId": "no_epg_sport"
   },
   {
     "name": "Суспільне Спорт",
     "group": "Спорт",
     "logo": "http://epg.one/img2/8872.png",
     "url": "/nl/suspsport/index.m3u8",
-    "tvgId": "8872"
+    "tvgId": "suspilne-sport-ua"
   }
 ]
