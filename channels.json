@@ -119,6 +119,20 @@
     "tvgId": "nova-sport-bg"
   },
   {
+    "name": "ONE 1",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/one-1.png",
+    "url": "/nl/one-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "one-il"
+  },
+  {
+    "name": "ONE 2",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/one-2.png",
+    "url": "/nl/one-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "one2-il"
+  },
+  {
     "name": "Setanta Sports 1",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-1.png",
