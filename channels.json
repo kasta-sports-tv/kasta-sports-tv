@@ -56,11 +56,25 @@
     "tvgId": "digisport2"
   },
   {
+    "name": "FUBO Sports Network",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/7930.png",
+    "url": "/nl/fubonetw/index.m3u8",
+    "tvgId": "fubo-sports-network-us"
+  },
+  {
     "name": "Kasta Sports",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/kastasports.png",
     "url": "/nl/kastasp/tracks-v1a1/mono.m3u8",
     "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "Maincast Sport",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/maincastsp.png",
+    "url": "/nl/maincastsp/tracks-v1a1/mono.m3u8",
+    "tvgId": "maincast-sport"
   },
   {
     "name": "MAX Sport 1",
