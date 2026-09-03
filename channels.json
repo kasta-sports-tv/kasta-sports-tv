@@ -23,7 +23,7 @@
   {
     "name": "BTV Action",
     "group": "Спорт",
-    "logo": "https://kasta-sports-tv.pages.dev/logo/btvact.png",
+    "logo": "http://epg.one/img2/11768.png",
     "url": "/nl/btvact/tracks-v1a1/mono.m3u8",
     "tvgId": "bTV_Action_bg"
   },
