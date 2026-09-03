@@ -13,7 +13,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/diema-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="diema-sport-2-bg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",Diema Sport 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/diema-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="divisport" tvg-logo="http://1lot.tv/ch/10249.png",DiviSport
-https://ua.kasta-sports-tv.workers.dev/play/nl/divisp/chunklist.m3u8
+https://ua.kasta-sports-tv.workers.dev/play/nl/divisp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",Eurosport 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",Eurosport 2
