@@ -34,9 +34,9 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-4/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/megosp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="nova-sport-bg" tvg-logo="https://kasta-sports-tv.pages.dev/logo/novaspbg.png",Nova Sport BG
 https://ua.kasta-sports-tv.workers.dev/play/nl/novaspbg/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="one-il" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-1.png",ONE 1
+#EXTINF:-1 group-title="Спорт" tvg-id="2681" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-1.png",ONE 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/one-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="one2-il" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-2.png",ONE 2
+#EXTINF:-1 group-title="Спорт" tvg-id="2704" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-2.png",ONE 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/one-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-1.png",Setanta Sports 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-1/tracks-v1a1/mono.m3u8
@@ -54,7 +54,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/sport-2il/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-3il/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2720" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-4il.png",Sport 4 IL
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-4il/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="3993" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-5il.png",Sport 5 IL
+#EXTINF:-1 group-title="Спорт" tvg-id="2682" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-5il.png",Sport 5 IL
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-5il/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/eju6ny1629403057.png",Sport 1 UA
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-1ua/tracks-v1a1/mono.m3u8
