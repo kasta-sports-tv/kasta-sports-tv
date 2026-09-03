@@ -1,9 +1,11 @@
 #EXTM3U x-tvg-url="http://1lot.tv/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-1.png",Betking Live 1
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8751.png",Betking Live 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-2.png",Betking Live 2
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8752.png",Betking Live 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-2/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/11671.png",Betking Live 3
+https://ua.kasta-sports-tv.workers.dev/play/nl/betking-3/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="bTV_Action_bg" tvg-logo="https://kasta-sports-tv.pages.dev/logo/btvact.png",BTV Action
 https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="diema-sport-1-bg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",Diema Sport
@@ -24,6 +26,8 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-2/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="max-sport-4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png",MAX Sport 4
 https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="megogo-sport" tvg-logo="http://epg.one/img2/9648.png",Megogo Спорт
+https://ua.kasta-sports-tv.workers.dev/play/nl/megosp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="nova-sport-bg" tvg-logo="https://kasta-sports-tv.pages.dev/logo/novaspbg.png",Nova Sport BG
 https://ua.kasta-sports-tv.workers.dev/play/nl/novaspbg/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-1.png",Setanta Sports 1
