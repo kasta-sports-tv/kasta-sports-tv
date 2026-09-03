@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5722096,CODECS="avc1.42c032,mp4a.40.2",RESOLUTION=1920x1080
+https://vcdn.produck.company/out/ngrp:divisport_all/chunklist_w1506070884_b5222096.m3u8
