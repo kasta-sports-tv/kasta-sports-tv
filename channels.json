@@ -119,11 +119,11 @@
     "tvgId": "nova-sport-bg"
   },
   {
-    "name": "ONE HD",
+    "name": "ONE 1",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/one-1.png",
     "url": "/nl/one-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "2681"
+    "tvgId": "one-il"
   },
   {
     "name": "ONE 2",
@@ -145,6 +145,20 @@
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-2.png",
     "url": "/nl/set-2/tracks-v1a1/mono.m3u8",
     "tvgId": "setanta-sports-plus"
+  },
+  {
+    "name": "Setanta Sports 1 Baltic",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/set-1balt.png",
+    "url": "/nl/set-1balt/tracks-v1a1/mono.m3u8",
+    "tvgId": "setanta1-lt"
+  },
+  {
+    "name": "Setanta Sports 2 Baltic",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/set-2balt.png",
+    "url": "/nl/set-2balt/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
   },
   {
     "name": "Setanta Sports UA",
