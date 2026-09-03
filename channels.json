@@ -42,20 +42,6 @@
     "tvgId": "diema-sport-2-bg"
   },
   {
-    "name": "DIGI Sport 1",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png",
-    "url": "/nl/digi-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "digisport1"
-  },
-  {
-    "name": "DIGI Sport 2",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/vqqrrq1436105445.png",
-    "url": "/nl/digi-2/tracks-v1a1/mono.m3u8",
-    "tvgId": "digisport2"
-  },
-  {
     "name": "FUBO Sports Network",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7930.png",
