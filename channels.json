@@ -45,7 +45,7 @@
     "name": "DiviSport",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/10249.png",
-    "url": "/nl/divisp/chunklist.m3u8",
+    "url": "/nl/divisp/tracks-v1a1/mono.m3u8",
     "tvgId": "divisport"
   },
   {
