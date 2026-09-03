@@ -34,7 +34,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-4/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/megosp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="nova-sport-bg" tvg-logo="https://kasta-sports-tv.pages.dev/logo/novaspbg.png",Nova Sport BG
 https://ua.kasta-sports-tv.workers.dev/play/nl/novaspbg/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2681" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-1.png",ONE
+#EXTINF:-1 group-title="Спорт" tvg-id="2681" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-1.png",ONE HD
 https://ua.kasta-sports-tv.workers.dev/play/nl/one-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="one2-il" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-2.png",ONE 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/one-2/tracks-v1a1/mono.m3u8
