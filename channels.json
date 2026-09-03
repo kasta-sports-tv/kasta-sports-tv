@@ -123,14 +123,14 @@
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/one-1.png",
     "url": "/nl/one-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "one-il"
+    "tvgId": "2681"
   },
   {
     "name": "ONE 2",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/one-2.png",
     "url": "/nl/one-2/tracks-v1a1/mono.m3u8",
-    "tvgId": "one2-il"
+    "tvgId": "2704"
   },
   {
     "name": "Setanta Sports 1",
@@ -193,7 +193,7 @@
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-5il.png",
     "url": "/nl/sport-5il/tracks-v1a1/mono.m3u8",
-    "tvgId": "3993"
+    "tvgId": "2682"
   },
   {
     "name": "Sport 1 UA",
