@@ -42,6 +42,13 @@
     "tvgId": "diema-sport-2-bg"
   },
   {
+    "name": "DiviSport",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",
+    "url": "/nl/divisp/tracks-v1a1/mono.m3u8",
+    "tvgId": "divisport"
+  },
+  {
     "name": "Eurosport 1",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",
