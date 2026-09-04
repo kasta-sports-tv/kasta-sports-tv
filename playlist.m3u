@@ -52,6 +52,8 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/set-2/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-1balt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-2balt.png",Setanta Sports 2 Baltic
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-2balt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-prem-ua" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5d1013c8-594c-4fb6-a6d1-654df583a246.png",Setanta Sports Premium 🇺🇦
+https://ua.kasta-sports-tv.workers.dev/play/nl/setprem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-ua" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setua.png",Setanta Sports UA
 https://ua.kasta-sports-tv.workers.dev/play/nl/setua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-plus-ua" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA
