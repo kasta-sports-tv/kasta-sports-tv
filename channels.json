@@ -91,6 +91,13 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "La chaîne L'Équipe 🇫🇷",
+    "group": "Спорт",
+    "logo": "http://epg.one/img2/11893.png",
+    "url": "/nl/laequipe/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Maincast Sport 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/maincastsp.png",
