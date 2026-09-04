@@ -63,14 +63,14 @@
     "tvgId": "eurosport2"
   },
   {
-    "name": "FUBO Sports Network",
+    "name": "FUBO Sports Network 🇺🇸",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7930.png",
     "url": "/nl/fubonetw/index.m3u8",
     "tvgId": "fubo-sports-network-us"
   },
   {
-    "name": "Go3 Sport 1",
+    "name": "Go3 Sport 1 🇱🇻",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qo7ct61723836245.png",
     "url": "/nl/go3sp-1/tracks-v1a1/mono.m3u8",
@@ -147,35 +147,35 @@
     "tvgId": "one2-il"
   },
   {
-    "name": "QazSport",
+    "name": "QazSport 🇰🇿",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/9118.png",
     "url": "/nl/qazsp/tracks-v1a1/mono.m3u8",
     "tvgId": "kazsport"
   },
   {
-    "name": "Setanta Sports 1",
+    "name": "Setanta Sports 1 🌏",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-1.png",
     "url": "/nl/set-1/tracks-v1a1/mono.m3u8",
     "tvgId": "setanta-sports"
   },
   {
-    "name": "Setanta Sports 2",
+    "name": "Setanta Sports 2 🌏",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-2.png",
     "url": "/nl/set-2/tracks-v1a1/mono.m3u8",
     "tvgId": "setanta-sports-plus"
   },
   {
-    "name": "Setanta Sports 1 Baltic",
+    "name": "Setanta Sports 1 Baltic 🇱🇻",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-1balt.png",
     "url": "/nl/set-1balt/tracks-v1a1/mono.m3u8",
     "tvgId": "setanta1-lt"
   },
   {
-    "name": "Setanta Sports 2 Baltic",
+    "name": "Setanta Sports 2 Baltic 🇱🇻",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-2balt.png",
     "url": "/nl/set-2balt/tracks-v1a1/mono.m3u8",
@@ -259,7 +259,7 @@
     "tvgId": "sport3-ua"
   },
   {
-    "name": "Super Tennis",
+    "name": "Super Tennis 🇮🇹",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/supertennis.png",
     "url": "/nl/supertennis/index.m3u8",
