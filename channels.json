@@ -259,6 +259,13 @@
     "tvgId": "3117"
   },
   {
+    "name": "Матч! ТВ",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/2224.png",
+    "url": "/nl/mtv/tracks-v1a1/mono.m3u8",
+    "tvgId": "match-tv"
+  },
+  {
     "name": "Матч! Премьер",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/1423.png",
