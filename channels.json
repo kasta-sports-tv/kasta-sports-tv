@@ -1,20 +1,20 @@
 [
   {
-    "name": "Betking Live 1",
+    "name": "Betking Live 1 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8751.png",
     "url": "/nl/betking-1/index.m3u8",
     "tvgId": "no_epg_sport"
   },
   {
-    "name": "Betking Live 2",
+    "name": "Betking Live 2 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8752.png",
     "url": "/nl/betking-2/index.m3u8",
     "tvgId": "no_epg_sport"
   },
   {
-    "name": "Betking Live 3",
+    "name": "Betking Live 3 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/11671.png",
     "url": "/nl/betking-3/index.m3u8",
@@ -42,21 +42,21 @@
     "tvgId": "diema-sport-2-bg"
   },
   {
-    "name": "DiviSport",
+    "name": "DiviSport 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/10249.png",
     "url": "/nl/divisp/tracks-v1a1/mono.m3u8",
     "tvgId": "divisport"
   },
   {
-    "name": "Eurosport 1",
+    "name": "Eurosport 1 🏳",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",
     "url": "/nl/eurosp-1/tracks-v1a1/mono.m3u8",
     "tvgId": "eurosport1"
   },
   {
-    "name": "Eurosport 2",
+    "name": "Eurosport 2 🇺🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",
     "url": "/nl/eurosp-2/tracks-v1a2/mono.m3u8",
@@ -77,14 +77,14 @@
     "tvgId": "tvplay-sports"
   },
   {
-    "name": "Kasta Sports",
+    "name": "Kasta Sports 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/kastasports.png",
     "url": "/nl/kastasp/tracks-v1a1/mono.m3u8",
     "tvgId": "no_epg_sport"
   },
   {
-    "name": "Maincast Sport",
+    "name": "Maincast Sport 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/maincastsp.png",
     "url": "/nl/maincastsp/tracks-v1a1/mono.m3u8",
@@ -119,7 +119,7 @@
     "tvgId": "max-sport-4"
   },
   {
-    "name": "Megogo Спорт",
+    "name": "Megogo Спорт 🇺🇦",
     "group": "Спорт",
     "logo": "http://epg.one/img2/9648.png",
     "url": "/nl/megosp/tracks-v1a1/mono.m3u8",
@@ -189,14 +189,14 @@
     "tvgId": "setanta-prem-ua"
   },
   {
-    "name": "Setanta Sports UA",
+    "name": "Setanta Sports UA 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/setua.png",
     "url": "/nl/setua/tracks-v1a1/mono.m3u8",
     "tvgId": "setanta-ua"
   },
   {
-    "name": "Setanta Sports+ UA",
+    "name": "Setanta Sports+ UA 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/setuaplus.png",
     "url": "/nl/setuaplus/tracks-v1a1/mono.m3u8",
@@ -238,21 +238,21 @@
     "tvgId": "2682"
   },
   {
-    "name": "Sport 1 UA",
+    "name": "Sport 1 UA 🇺🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/eju6ny1629403057.png",
     "url": "/nl/sport-1ua/tracks-v1a1/mono.m3u8",
     "tvgId": "sport1-ua"
   },
   {
-    "name": "Sport 2 UA",
+    "name": "Sport 2 UA 🇺🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wg07y71629403045.png",
     "url": "/nl/sport-2ua/tracks-v1a1/mono.m3u8",
     "tvgId": "sport2-ua"
   },
   {
-    "name": "Sport 3 UA",
+    "name": "Sport 3 UA 🇺🇦",
     "group": "Спорт",
     "logo": "http://epg.one/img2/9297.png",
     "url": "/nl/sport-3ua/tracks-v1a1/mono.m3u8",
@@ -266,77 +266,77 @@
     "tvgId": "3117"
   },
   {
-    "name": "Матч! ТВ",
+    "name": "Матч! ТВ 🏳",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/2224.png",
     "url": "/nl/mtv/tracks-v1a1/mono.m3u8",
     "tvgId": "match-tv"
   },
   {
-    "name": "Матч! Боец",
+    "name": "Матч! Боец 🏳",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/1302.png",
     "url": "/nl/mboec/tracks-v1a1/mono.m3u8",
     "tvgId": "match-boets"
   },
   {
-    "name": "Матч! Премьер",
+    "name": "Матч! Премьер 🏳",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/1423.png",
     "url": "/nl/mprem/tracks-v1a1/mono.m3u8",
     "tvgId": "match-premier"
   },
   {
-    "name": "Матч! Футбол 1",
+    "name": "Матч! Футбол 1 🏳",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-1.png",
     "url": "/nl/mfoot-1/tracks-v1a1/mono.m3u8",
     "tvgId": "match-football1"
   },
   {
-    "name": "Матч! Футбол 2",
+    "name": "Матч! Футбол 2 🏳",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-2.png",
     "url": "/nl/mfoot-2/tracks-v1a1/mono.m3u8",
     "tvgId": "match-football2"
   },
   {
-    "name": "Матч! Футбол 3",
+    "name": "Матч! Футбол 3 🏳",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/mfoot-3.png",
     "url": "/nl/mfoot-3/tracks-v1a1/mono.m3u8",
     "tvgId": "match-football3"
   },
   {
-    "name": "Окко Прайм Спорт",
+    "name": "Окко Прайм Спорт 🏳",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkoprime.png",
     "url": "/nl/okkoprime/tracks-v1a1/mono.m3u8",
     "tvgId": "okko-sport-2"
   },
   {
-    "name": "Окко Спорт",
+    "name": "Окко Спорт 🏳",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkosport.png",
     "url": "/nl/okkosp/tracks-v1a1/mono.m3u8",
     "tvgId": "okko-sport"
   },
   {
-    "name": "Окко Футбол",
+    "name": "Окко Футбол 🏳",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkofootball.png",
     "url": "/nl/okkofoot/tracks-v1a1/mono.m3u8",
     "tvgId": "okko-football"
   },
   {
-    "name": "Окко Чемпионат",
+    "name": "Окко Чемпионат 🏳",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/okkochampion.png",
     "url": "/nl/okkochamp/manifest.m3u8",
     "tvgId": "no_epg_sport"
   },
   {
-    "name": "Суспільне Спорт",
+    "name": "Суспільне Спорт 🇺🇦",
     "group": "Спорт",
     "logo": "http://epg.one/img2/8872.png",
     "url": "/nl/suspsport/index.m3u8",
