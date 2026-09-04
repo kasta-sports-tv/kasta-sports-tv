@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="http://1lot.tv/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8751.png",Betking Live 1
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8751.png",Betking Live 1 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8752.png",Betking Live 2
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8752.png",Betking Live 2 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-2/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/11671.png",Betking Live 3
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/11671.png",Betking Live 3 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-3/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="bTV_Action_bg" tvg-logo="http://epg.one/img2/11768.png",BTV Action
 https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
@@ -12,19 +12,19 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/diema-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="diema-sport-2-bg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",Diema Sport 2
 https://ua.kasta-sports-tv.workers.dev/play/nl/diema-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="divisport" tvg-logo="http://1lot.tv/ch/10249.png",DiviSport
+#EXTINF:-1 group-title="Спорт" tvg-id="divisport" tvg-logo="http://1lot.tv/ch/10249.png",DiviSport 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/divisp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",Eurosport 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",Eurosport 2
+#EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",Eurosport 2 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-2/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fubo-sports-network-us" tvg-logo="http://1lot.tv/ch/7930.png",FUBO Sports Network 
 https://ua.kasta-sports-tv.workers.dev/play/nl/fubonetw/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qo7ct61723836245.png",Go3 Sport 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/go3sp-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/kastasports.png",Kasta Sports
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/kastasports.png",Kasta Sports 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/kastasp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="maincast-sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/maincastsp.png",Maincast Sport
+#EXTINF:-1 group-title="Спорт" tvg-id="maincast-sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/maincastsp.png",Maincast Sport 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/maincastsp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="max-sport-1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",MAX Sport 1
 https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-1/tracks-v1a1/mono.m3u8
@@ -34,7 +34,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-2/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="max-sport-4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png",MAX Sport 4
 https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="megogo-sport" tvg-logo="http://epg.one/img2/9648.png",Megogo Спорт
+#EXTINF:-1 group-title="Спорт" tvg-id="megogo-sport" tvg-logo="http://epg.one/img2/9648.png",Megogo Спорт 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/megosp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="nova-sport-bg" tvg-logo="https://kasta-sports-tv.pages.dev/logo/novaspbg.png",Nova Sport BG
 https://ua.kasta-sports-tv.workers.dev/play/nl/novaspbg/tracks-v1a1/mono.m3u8
@@ -54,9 +54,9 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/set-1balt/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-2balt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-prem-ua" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5d1013c8-594c-4fb6-a6d1-654df583a246.png",Setanta Sports Premium 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/setprem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="setanta-ua" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setua.png",Setanta Sports UA
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-ua" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setua.png",Setanta Sports UA 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/setua/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="setanta-plus-ua" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-plus-ua" tvg-logo="https://kasta-sports-tv.pages.dev/logo/setuaplus.png",Setanta Sports+ UA 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/setuaplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2684" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-1il.png",Sport 1 IL
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-1il/tracks-v1a1/mono.m3u8
@@ -68,11 +68,11 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/sport-3il/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-4il/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="2682" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-5il.png",Sport 5 IL
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-5il/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/eju6ny1629403057.png",Sport 1 UA
+#EXTINF:-1 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/eju6ny1629403057.png",Sport 1 UA 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-1ua/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wg07y71629403045.png",Sport 2 UA
+#EXTINF:-1 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wg07y71629403045.png",Sport 2 UA 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-2ua/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="sport3-ua" tvg-logo="http://epg.one/img2/9297.png",Sport 3 UA
+#EXTINF:-1 group-title="Спорт" tvg-id="sport3-ua" tvg-logo="http://epg.one/img2/9297.png",Sport 3 UA 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-3ua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="3117" tvg-logo="https://kasta-sports-tv.pages.dev/logo/supertennis.png",Super Tennis
 https://ua.kasta-sports-tv.workers.dev/play/nl/supertennis/index.m3u8
@@ -96,5 +96,5 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/okkosp/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/okkofoot/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkochampion.png",Окко Чемпионат
 https://ua.kasta-sports-tv.workers.dev/play/nl/okkochamp/manifest.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="suspilne-sport-ua" tvg-logo="http://epg.one/img2/8872.png",Суспільне Спорт
+#EXTINF:-1 group-title="Спорт" tvg-id="suspilne-sport-ua" tvg-logo="http://epg.one/img2/8872.png",Суспільне Спорт 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/suspsport/index.m3u8
