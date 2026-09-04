@@ -70,6 +70,13 @@
     "tvgId": "fubo-sports-network-us"
   },
   {
+    "name": "Go3 Sport 1",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qo7ct61723836245.png",
+    "url": "/nl/go3sp-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "tvplay-sports"
+  },
+  {
     "name": "Kasta Sports",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/kastasports.png",
