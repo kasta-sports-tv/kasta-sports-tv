@@ -182,6 +182,13 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "Setanta Sports Premium 🇺🇦",
+    "group": "Спорт",
+    "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/5d1013c8-594c-4fb6-a6d1-654df583a246.png",
+    "url": "/nl/setprem/tracks-v1a1/mono.m3u8",
+    "tvgId": "setanta-prem-ua"
+  },
+  {
     "name": "Setanta Sports UA",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/setua.png",
