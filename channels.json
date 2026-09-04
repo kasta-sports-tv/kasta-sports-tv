@@ -23,7 +23,7 @@
   {
     "name": "BTV Action 🇧🇬",
     "group": "Спорт",
-    "logo": "http://epg.one/img2/11768.png",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/xquxqt1441478239.png",
     "url": "/nl/btvact/tracks-v1a1/mono.m3u8",
     "tvgId": "bTV_Action_bg"
   },
@@ -86,7 +86,7 @@
   {
     "name": "La chaîne L'Équipe 🇫🇷",
     "group": "Спорт",
-    "logo": "http://epg.one/img2/11893.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/La_cha%C3%AEne_l%27Equipe_-_logo_2016.png",
     "url": "/nl/laequipe/index.m3u8",
     "tvgId": "no_epg_sport"
   },
@@ -128,7 +128,7 @@
   {
     "name": "Megogo Спорт 🇺🇦",
     "group": "Спорт",
-    "logo": "http://epg.one/img2/9648.png",
+    "logo": "https://epg.iptvx.one/picons/megogo-sport.png",
     "url": "/nl/megosp/tracks-v1a1/mono.m3u8",
     "tvgId": "megogo-sport"
   },
@@ -214,35 +214,35 @@
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-1il.png",
     "url": "/nl/sport-1il/tracks-v1a1/mono.m3u8",
-    "tvgId": "2684"
+    "tvgId": "yes-sport-1"
   },
   {
     "name": "Sport 2 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-2il.png",
     "url": "/nl/sport-2il/tracks-v1a1/mono.m3u8",
-    "tvgId": "2683"
+    "tvgId": "yes-sport-2"
   },
   {
     "name": "Sport 3 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-3il.png",
     "url": "/nl/sport-3il/tracks-v1a1/mono.m3u8",
-    "tvgId": "2719"
+    "tvgId": "yes-sport-3"
   },
   {
     "name": "Sport 4 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-4il.png",
     "url": "/nl/sport-4il/tracks-v1a1/mono.m3u8",
-    "tvgId": "2720"
+    "tvgId": "yes-sport-4"
   },
   {
     "name": "Sport 5 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-5il.png",
     "url": "/nl/sport-5il/tracks-v1a1/mono.m3u8",
-    "tvgId": "2682"
+    "tvgId": "yes-sport-5"
   },
   {
     "name": "Sport 1 UA 🇺🇦",
@@ -261,7 +261,7 @@
   {
     "name": "Sport 3 UA 🇺🇦",
     "group": "Спорт",
-    "logo": "http://epg.one/img2/9297.png",
+    "logo": "https://epg.iptvx.one/picons/sport3-ua.png",
     "url": "/nl/sport-3ua/tracks-v1a1/mono.m3u8",
     "tvgId": "sport3-ua"
   },
@@ -270,7 +270,7 @@
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/supertennis.png",
     "url": "/nl/supertennis/index.m3u8",
-    "tvgId": "3117"
+    "tvgId": "no_epg_sport"
   },
   {
     "name": "Матч! ТВ 🏳",
@@ -345,7 +345,7 @@
   {
     "name": "Суспільне Спорт 🇺🇦",
     "group": "Спорт",
-    "logo": "http://epg.one/img2/8872.png",
+    "logo": "https://epg.iptvx.one/picons/suspilne-sport-ua.png",
     "url": "/nl/suspsport/index.m3u8",
     "tvgId": "suspilne-sport-ua"
   }
