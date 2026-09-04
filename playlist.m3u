@@ -18,9 +18,9 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/divisp/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",Eurosport 2 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-2/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="fubo-sports-network-us" tvg-logo="http://1lot.tv/ch/7930.png",FUBO Sports Network 
+#EXTINF:-1 group-title="Спорт" tvg-id="fubo-sports-network-us" tvg-logo="http://1lot.tv/ch/7930.png",FUBO Sports Network 🇺🇸
 https://ua.kasta-sports-tv.workers.dev/play/nl/fubonetw/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qo7ct61723836245.png",Go3 Sport 1
+#EXTINF:-1 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qo7ct61723836245.png",Go3 Sport 1 🇱🇻
 https://ua.kasta-sports-tv.workers.dev/play/nl/go3sp-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/kastasports.png",Kasta Sports 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/kastasp/tracks-v1a1/mono.m3u8
@@ -42,15 +42,15 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/novaspbg/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/one-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="one2-il" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-2.png",ONE 2 🇮🇱
 https://ua.kasta-sports-tv.workers.dev/play/nl/one-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="kazsport" tvg-logo="http://1lot.tv/ch/9118.png",QazSport
+#EXTINF:-1 group-title="Спорт" tvg-id="kazsport" tvg-logo="http://1lot.tv/ch/9118.png",QazSport 🇰🇿
 https://ua.kasta-sports-tv.workers.dev/play/nl/qazsp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-1.png",Setanta Sports 1
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-1.png",Setanta Sports 1 🌏
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-2.png",Setanta Sports 2
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-2.png",Setanta Sports 2 🌏
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="setanta1-lt" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-1balt.png",Setanta Sports 1 Baltic
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta1-lt" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-1balt.png",Setanta Sports 1 Baltic 🇱🇻
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-1balt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-2balt.png",Setanta Sports 2 Baltic
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/set-2balt.png",Setanta Sports 2 Baltic 🇱🇻
 https://ua.kasta-sports-tv.workers.dev/play/nl/set-2balt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-prem-ua" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5d1013c8-594c-4fb6-a6d1-654df583a246.png",Setanta Sports Premium 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/setprem/tracks-v1a1/mono.m3u8
@@ -74,7 +74,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/sport-1ua/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-2ua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sport3-ua" tvg-logo="http://epg.one/img2/9297.png",Sport 3 UA 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-3ua/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="3117" tvg-logo="https://kasta-sports-tv.pages.dev/logo/supertennis.png",Super Tennis
+#EXTINF:-1 group-title="Спорт" tvg-id="3117" tvg-logo="https://kasta-sports-tv.pages.dev/logo/supertennis.png",Super Tennis 🇮🇹
 https://ua.kasta-sports-tv.workers.dev/play/nl/supertennis/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" tvg-logo="http://1lot.tv/ch/2224.png",Матч! ТВ 🏳
 https://ua.kasta-sports-tv.workers.dev/play/nl/mtv/tracks-v1a1/mono.m3u8
