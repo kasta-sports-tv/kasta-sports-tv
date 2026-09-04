@@ -28,13 +28,6 @@
     "tvgId": "bTV_Action_bg"
   },
   {
-    "name": "CBS Sports Network 🇺🇸",
-    "group": "Спорт",
-    "logo": "http://epg.one/img2/4560.png",
-    "url": "/nl/cbsnetw/tracks-v1a1/mono.m3u8",
-    "tvgId": "cbs-sports-network-us"
-  },
-  {
     "name": "Diema Sport 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
