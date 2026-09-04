@@ -266,6 +266,13 @@
     "tvgId": "match-tv"
   },
   {
+    "name": "Матч! Боец",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/1302.png",
+    "url": "/nl/mboec/tracks-v1a1/mono.m3u8",
+    "tvgId": "match-boets"
+  },
+  {
     "name": "Матч! Премьер",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/1423.png",
