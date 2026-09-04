@@ -21,21 +21,21 @@
     "tvgId": "no_epg_sport"
   },
   {
-    "name": "BTV Action",
+    "name": "BTV Action 🇧🇬",
     "group": "Спорт",
     "logo": "http://epg.one/img2/11768.png",
     "url": "/nl/btvact/tracks-v1a1/mono.m3u8",
     "tvgId": "bTV_Action_bg"
   },
   {
-    "name": "Diema Sport",
+    "name": "Diema Sport 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
     "url": "/nl/diema-1/tracks-v1a1/mono.m3u8",
     "tvgId": "diema-sport-1-bg"
   },
   {
-    "name": "Diema Sport 2",
+    "name": "Diema Sport 2 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png",
     "url": "/nl/diema-2/tracks-v1a1/mono.m3u8",
@@ -91,28 +91,28 @@
     "tvgId": "maincast-sport"
   },
   {
-    "name": "MAX Sport 1",
+    "name": "MAX Sport 1 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",
     "url": "/nl/maxsp-1/tracks-v1a1/mono.m3u8",
     "tvgId": "max-sport-1"
   },
   {
-    "name": "MAX Sport 2",
+    "name": "MAX Sport 2 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png",
     "url": "/nl/maxsp-2/tracks-v1a1/mono.m3u8",
     "tvgId": "max-sport-2"
   },
   {
-    "name": "MAX Sport 3",
+    "name": "MAX Sport 3 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png",
     "url": "/nl/maxsp-3/tracks-v1a1/mono.m3u8",
     "tvgId": "max-sport-3"
   },
   {
-    "name": "MAX Sport 4",
+    "name": "MAX Sport 4 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png",
     "url": "/nl/maxsp-4/tracks-v1a1/mono.m3u8",
@@ -126,21 +126,21 @@
     "tvgId": "megogo-sport"
   },
   {
-    "name": "Nova Sport BG",
+    "name": "Nova Sport BG 🇧🇬",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/novaspbg.png",
     "url": "/nl/novaspbg/tracks-v1a1/mono.m3u8",
     "tvgId": "nova-sport-bg"
   },
   {
-    "name": "ONE 1",
+    "name": "ONE 1 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/one-1.png",
     "url": "/nl/one-1/tracks-v1a1/mono.m3u8",
     "tvgId": "one-il"
   },
   {
-    "name": "ONE 2",
+    "name": "ONE 2 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/one-2.png",
     "url": "/nl/one-2/tracks-v1a1/mono.m3u8",
@@ -203,35 +203,35 @@
     "tvgId": "setanta-plus-ua"
   },
   {
-    "name": "Sport 1 IL",
+    "name": "Sport 1 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-1il.png",
     "url": "/nl/sport-1il/tracks-v1a1/mono.m3u8",
     "tvgId": "2684"
   },
   {
-    "name": "Sport 2 IL",
+    "name": "Sport 2 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-2il.png",
     "url": "/nl/sport-2il/tracks-v1a1/mono.m3u8",
     "tvgId": "2683"
   },
   {
-    "name": "Sport 3 IL",
+    "name": "Sport 3 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-3il.png",
     "url": "/nl/sport-3il/tracks-v1a1/mono.m3u8",
     "tvgId": "2719"
   },
   {
-    "name": "Sport 4 IL",
+    "name": "Sport 4 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-4il.png",
     "url": "/nl/sport-4il/tracks-v1a1/mono.m3u8",
     "tvgId": "2720"
   },
   {
-    "name": "Sport 5 IL",
+    "name": "Sport 5 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-5il.png",
     "url": "/nl/sport-5il/tracks-v1a1/mono.m3u8",
