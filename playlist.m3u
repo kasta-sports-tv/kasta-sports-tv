@@ -112,5 +112,11 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/okkosp/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/okkofoot/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/okkochampion.png",Окко Чемпионат 🏳
 https://ua.kasta-sports-tv.workers.dev/play/nl/okkochamp/manifest.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="start" tvg-logo="https://epg.iptvx.one/picons/start.png",Старт 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/start/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/start-triumf.png",Старт Триумф 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/starttriumf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://epg.iptvx.one/picons/football-ru.png",Телеканал Футбол 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/football/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="suspilne-sport-ua" tvg-logo="https://epg.iptvx.one/picons/suspilne-sport-ua.png",Суспільне Спорт 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/suspsport/index.m3u8
