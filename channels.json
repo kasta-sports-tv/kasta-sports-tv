@@ -238,13 +238,6 @@
     "tvgId": "no_epg_sport"
   },
   {
-    "name": "Setanta Sports Premium 🇺🇦",
-    "group": "Спорт",
-    "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/5d1013c8-594c-4fb6-a6d1-654df583a246.png",
-    "url": "/nl/setprem/tracks-v1a1/mono.m3u8",
-    "tvgId": "setanta-prem-ua"
-  },
-  {
     "name": "Setanta Sports UA 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/setua.png",
@@ -257,6 +250,13 @@
     "logo": "https://kasta-sports-tv.pages.dev/logo/setuaplus.png",
     "url": "/nl/setuaplus/tracks-v1a1/mono.m3u8",
     "tvgId": "setanta-plus-ua"
+  },
+  {
+    "name": "Setanta Sports Premium 🇺🇦",
+    "group": "Спорт",
+    "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/5d1013c8-594c-4fb6-a6d1-654df583a246.png",
+    "url": "/nl/setprem/tracks-v1a1/mono.m3u8",
+    "tvgId": "setanta-prem-ua"
   },
   {
     "name": "Sport 1 IL 🇮🇱",
@@ -392,10 +392,31 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "Старт 🏳",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/start-triumf.png",
+    "url": "/nl/start/tracks-v1a1/mono.m3u8",
+    "tvgId": "start"
+  },
+  {
+    "name": "Старт Триумф 🏳",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/start.png",
+    "url": "/nl/starttriumf/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Суспільне Спорт 🇺🇦",
     "group": "Спорт",
     "logo": "https://epg.iptvx.one/picons/suspilne-sport-ua.png",
     "url": "/nl/suspsport/index.m3u8",
     "tvgId": "suspilne-sport-ua"
+  },
+  {
+    "name": "Телеканал Футбол 🏳",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/football-ru.png",
+    "url": "/nl/football/index.m3u8",
+    "tvgId": "football-ru"
   }
 ]
