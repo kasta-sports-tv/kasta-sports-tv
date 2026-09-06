@@ -35,6 +35,41 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "BOX SportCast 🏳",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8770.png",
+    "url": "/nl/boxsportcasthd/tracks-v1a1/mono.m3u8",
+    "tvgId": "box-sportcast"
+  },
+  {
+    "name": "BOX SportCast Live 1 🏳",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8736.png",
+    "url": "/nl/boxsportcast-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "box-sportcast-live1"
+  },
+  {
+    "name": "BOX SportCast Live 2 🏳",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8737.png",
+    "url": "/nl/boxsportcast-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "box-sportcast-live2"
+  },
+  {
+    "name": "BOX SportCast Live 3 🏳",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8738.png",
+    "url": "/nl/boxsportcast-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "box-sportcast-live3"
+  },
+  {
+    "name": "BOX SportCast Live 4 🏳",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8739.png",
+    "url": "/nl/boxsportcast-4/tracks-v1a1/mono.m3u8",
+    "tvgId": "box-sportcast-live4"
+  },
+  {
     "name": "BTV Action 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/xquxqt1441478239.png",
