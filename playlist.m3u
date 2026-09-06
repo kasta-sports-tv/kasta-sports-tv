@@ -10,6 +10,16 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/betking-3/index.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-4/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/betking-5.png",Betking Live 5 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/betking-5/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="box-sportcast" tvg-logo="http://1lot.tv/ch/8770.png",BOX SportCast 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcasthd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="box-sportcast-live1" tvg-logo="http://1lot.tv/ch/8736.png",BOX SportCast Live 1 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="box-sportcast-live2" tvg-logo="http://1lot.tv/ch/8737.png",BOX SportCast Live 2 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="box-sportcast-live3" tvg-logo="http://1lot.tv/ch/8738.png",BOX SportCast Live 3 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="box-sportcast-live4" tvg-logo="http://1lot.tv/ch/8739.png",BOX SportCast Live 4 🏳
+https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="bTV_Action_bg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xquxqt1441478239.png",BTV Action 🇧🇬
 https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="diema-sport-1-bg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",Diema Sport 🇧🇬
