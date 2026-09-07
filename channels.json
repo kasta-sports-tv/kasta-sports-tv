@@ -98,6 +98,34 @@
     "tvgId": "divisport"
   },
   {
+    "name": "ESPN BR 🇧🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
+    "url": "/nl/espnbr/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "ESPN 2 BR 🇧🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
+    "url": "/nl/espn-2br/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "ESPN 3 BR 🇧🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/3uym3u1660763049.png",
+    "url": "/nl/espn-3br/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "ESPN 4 BR 🇧🇷",
+    "group": "Спорт",
+    "logo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
+    "url": "/nl/espn-4br/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Eurosport 1 🏳",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",
