@@ -28,6 +28,14 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/diema-1/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/diema-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="divisport" tvg-logo="http://1lot.tv/ch/10249.png",DiviSport 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/divisp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",ESPN BR 🇧🇷
+https://ua.kasta-sports-tv.workers.dev/play/nl/espnbr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",ESPN 2 BR 🇧🇷
+https://ua.kasta-sports-tv.workers.dev/play/nl/espn-2br/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3uym3u1660763049.png",ESPN 3 BR 🇧🇷
+https://ua.kasta-sports-tv.workers.dev/play/nl/espn-3br/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",ESPN 4 BR 🇧🇷
+https://ua.kasta-sports-tv.workers.dev/play/nl/espn-4br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",Eurosport 1 🏳
 https://ua.kasta-sports-tv.workers.dev/play/nl/eurosp-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2cc5871723875691.png",Eurosport 2 🇺🇦
