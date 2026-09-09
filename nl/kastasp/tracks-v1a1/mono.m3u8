@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
 
-#EXT-X-STREAM-INF:BANDWIDTH=690800,RESOLUTION=768x432,CODECS="avc1.64001e,mp4a.40.2",FRAME-RATE=29.97
-https://lotus.stingray.com/manifest/ose-347ads-montreal/samsungtvplus/c24477ce-a767-3e34-b2f8-8bd7e78272ba/730213/manifest.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=1790800,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=29.97
-https://lotus.stingray.com/manifest/ose-347ads-montreal/samsungtvplus/c24477ce-a767-3e34-b2f8-8bd7e78272ba/2051553/manifest.m3u8
+#EXTINF:1,
+https://wowza1.amazertv.com/live/gosport2.stream/chunklist.m3u8?streamkey=09614bf0-2a68-3a49-14d6832d8e9&leisertvToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjo2NzA3LCJzaWQiOiLvv71cdTAwMTFK77-9WjNHPjciLCJpYXQiOjE3ODg4ODkwNzksImV4cCI6MTc5MTQ4MTA3OX0.VglrH3IXhZ4s2qcX2MykEAO9ICDa8MC46GhEqf1o3kU
