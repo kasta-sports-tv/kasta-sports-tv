@@ -1,5 +1,12 @@
 [
   {
+    "name": "ASTRO Football 🌏",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/astro-supersport-4.png",
+    "url": "/nl/astrofoot/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Betking Live 1 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8751.png",
