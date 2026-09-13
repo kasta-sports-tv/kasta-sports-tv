@@ -1,3 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=5180000,BANDWIDTH=6470000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.4d002a,mp4a.40.2",CLOSED-CAPTIONS=NONE
+#EXTVLCOPT:http-referrer=https://betkinglive.online/betking/embed.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://betkinglive.online/betking/tracks-v1a1/mono.m3u8
