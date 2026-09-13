@@ -143,6 +143,20 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "ESPN NL 🇳🇱",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/10065.png",
+    "url": "http://176.65.153.6:3001/play/a009/index.m3u8",
+    "tvgId": "espn1-nl"
+  },
+  {
+    "name": "ESPN 2 NL 🇳🇱",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/10066.png",
+    "url": "http://176.65.153.6:3001/play/a00q/index.m3u8",
+    "tvgId": "espn2-nl"
+  },
+  {
     "name": "Eurosport 1 🏳",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/b3jq401723875521.png",
