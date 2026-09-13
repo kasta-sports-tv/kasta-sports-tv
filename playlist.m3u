@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="http://1lot.tv/epg/epg.xml.gz,https://iptvx.one/EPG_NOARCH"
 
+#EXTINF:-1 group-title="Тест" tvg-id="astro-supersport-4" tvg-logo="https://epg.iptvx.one/picons/astro-supersport-4.png",ASTRO Football 🌏
+#EXTVLCOPT:http-referrer=https://betkinglive.online/betking/embed.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://betkinglive.online/betking/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="astro-supersport-4" tvg-logo="https://epg.iptvx.one/picons/astro-supersport-4.png",ASTRO Football 🌏
 https://ua.kasta-sports-tv.workers.dev/play/nl/astrofoot/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8751.png",Betking Live 1 🇺🇦
