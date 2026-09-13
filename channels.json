@@ -367,6 +367,13 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "Ziggo Sport 1 🇳🇱",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8368.png",
+    "url": "/nl/ziggosp-1/index.m3u8",
+    "tvgId": "ziggo-sport1-nl"
+  },
+  {
     "name": "Матч! ТВ 🏳",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/2224.png",
