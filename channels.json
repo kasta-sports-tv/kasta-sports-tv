@@ -370,7 +370,7 @@
     "name": "Ziggo Sport 1 🇳🇱",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8368.png",
-    "url": "/nl/ziggosp-1/tracks-v1a1/mono.m3u8",
+    "url": "http://176.65.153.6:3002/play/a00e/index.m3u8",
     "tvgId": "ziggo-sport1-nl"
   },
   {
