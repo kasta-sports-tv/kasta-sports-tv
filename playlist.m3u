@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptvx.one/EPG_NOARCH"
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz,http://1lot.tv/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Спорт" tvg-id="astro-supersport-4" tvg-logo="https://epg.iptvx.one/picons/astro-supersport-4.png",ASTRO Football 🇲🇾
 https://ua.kasta-sports-tv.workers.dev/play/nl/astrofoot/tracks-v1a1/mono.m3u8
