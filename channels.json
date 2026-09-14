@@ -290,6 +290,13 @@
     "tvgId": "kazsport"
   },
   {
+    "name": "Ring 🇧🇬",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/9754.png",
+    "url": "/nl/ring/tracks-v1a1/mono.m3u8",
+    "tvgId": "ring-bg"
+  },
+  {
     "name": "Setanta Sports 1 🌏",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-1.png",
