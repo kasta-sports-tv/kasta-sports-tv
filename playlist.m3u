@@ -126,7 +126,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/sport-1ua/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-2ua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sport3-ua" tvg-logo="https://epg.iptvx.one/picons/sport3-ua.png",Sport 3 UA 🇺🇦
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-3ua/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sportdigital1%2B_Alternative_Logo_2025.svg/960px-Sportdigital1%2B_Alternative_Logo_2025.svg.png",Sport Digital 1+ 🇩🇪
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sportdigital-1.png",Sport Digital 1+ 🇩🇪
 http://92.114.85.52:1453/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportdigital-fussball" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",Sport Digital Fussball 🇩🇪
 http://92.114.85.52:1453/play/a01i/index.m3u8
