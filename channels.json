@@ -101,6 +101,13 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "CT Sport 🇨🇿",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8577.png",
+    "url": "http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8",
+    "tvgId": "ct-sport"
+  },
+  {
     "name": "Diema Sport 🇧🇬",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png",
