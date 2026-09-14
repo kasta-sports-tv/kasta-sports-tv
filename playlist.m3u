@@ -112,6 +112,10 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/setuaplus/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/setprem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sky-sports-football" tvg-logo="http://1lot.tv/ch/7920.png",Sky Sports Football 🇬🇧
 https://ua.kasta-sports-tv.workers.dev/play/nl/skyfootuk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sport-1-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",Sport 1 CZ 🇨🇿
+http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sport-2-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",Sport 2 CZ 🇨🇿
+http://212.102.38.45/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="yes-sport-1" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-1il.png",Sport 1 IL 🇮🇱
 https://ua.kasta-sports-tv.workers.dev/play/nl/sport-1il/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="yes-sport-2" tvg-logo="https://kasta-sports-tv.pages.dev/logo/sport-2il.png",Sport 2 IL 🇮🇱
