@@ -234,6 +234,13 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "M 4 Sport 🇭🇺",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/9981.png",
+    "url": "/nl/m4sp/index.m3u8",
+    "tvgId": "m4sport-hu"
+  },
+  {
     "name": "Maincast Sport 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/maincastsp.png",
