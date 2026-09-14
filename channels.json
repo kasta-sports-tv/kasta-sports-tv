@@ -325,6 +325,13 @@
     "tvgId": "setanta-prem-ua"
   },
   {
+    "name": "Sky Sports Football 🇬🇧",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/7920.png",
+    "url": "/nl/skyfootuk/tracks-v1a1/mono.m3u8",
+    "tvgId": "sky-sports-football"
+  },
+  {
     "name": "Sport 1 IL 🇮🇱",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/sport-1il.png",
