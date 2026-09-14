@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptvx.one/EPG_NOARCH"
 
-#EXTINF:-1 group-title="Спорт" tvg-id="astro-supersport-4" tvg-logo="https://epg.iptvx.one/picons/astro-supersport-4.png",ASTRO Football 🌏
+#EXTINF:-1 group-title="Спорт" tvg-id="astro-supersport-4" tvg-logo="https://epg.iptvx.one/picons/astro-supersport-4.png",ASTRO Football 🇲🇾
 https://ua.kasta-sports-tv.workers.dev/play/nl/astrofoot/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/8751.png",Betking Live 1 🇺🇦
 #EXTVLCOPT:http-referrer=https://betkinglive.online/betking/embed.html
