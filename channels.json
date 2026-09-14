@@ -416,6 +416,20 @@
     "tvgId": "sport3-ua"
   },
   {
+    "name": "Sport Digital 1+ 🇩🇪",
+    "group": "Спорт",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sportdigital1%2B_Logo_2025.svg/330px-Sportdigital1%2B_Logo_2025.svg.png",
+    "url": "http://92.114.85.52:1453/play/a01j/index.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "Sport Digital Fussball 🇩🇪",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",
+    "url": "http://92.114.85.52:1453/play/a01i/index.m3u8",
+    "tvgId": "sportdigital-fussball"
+  },
+  {
     "name": "Super Tennis 🇮🇹",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/supertennis.png",
