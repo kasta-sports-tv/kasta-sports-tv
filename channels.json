@@ -108,6 +108,13 @@
     "tvgId": "diema-sport-2-bg"
   },
   {
+    "name": "Diema Sport 3 🇧🇬",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wlk12t1627492656.png",
+    "url": "/nl/diema-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "diema-sport-3-bg"
+  },
+  {
     "name": "DiviSport 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/10249.png",
