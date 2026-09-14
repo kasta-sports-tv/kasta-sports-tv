@@ -171,6 +171,13 @@
     "tvgId": "eurosport2"
   },
   {
+    "name": "Fox Soccer Plus 🇺🇸",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/fox-soccer-plus-us.png",
+    "url": "/nl/foxsoccplus/tracks-v1a1/mono.m3u8",
+    "tvgId": "fox-soccer-plus-us"
+  },
+  {
     "name": "FUBO Sports Network 🇺🇸",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7930.png",
