@@ -129,32 +129,32 @@
     "tvgId": "diema-sport-3-bg"
   },
   {
-    "name": "DIGI Sport 1",
+    "name": "DIGI Sport 1 🇷🇴",
     "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png",
+    "logo": "https://epg.iptvx.one/picons/digisport1.png",
     "url": "/nl/digi-1/tracks-v1a1/mono.m3u8",
     "tvgId": "digisport1"
   },
   {
-    "name": "DIGI Sport 2",
+    "name": "DIGI Sport 2 🇷🇴",
     "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/vqqrrq1436105445.png",
+    "logo": "https://epg.iptvx.one/picons/digisport2.png",
     "url": "/nl/digi-2/tracks-v1a1/mono.m3u8",
     "tvgId": "digisport2"
   },
   {
-    "name": "DIGI Sport 3",
+    "name": "DIGI Sport 3 🇷🇴",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0b/Digi_Sport_3_3D_2019.png",
+    "logo": "https://epg.iptvx.one/picons/digisport3.png",
     "url": "/nl/digi-3/tracks-v1a1/mono.m3u8",
-    "tvgId": "2908"
+    "tvgId": "digisport3"
   },
   {
-    "name": "DIGI Sport 4",
+    "name": "DIGI Sport 4 🇷🇴",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/Digi_Sport_4_symbol.png",
+    "logo": "https://epg.iptvx.one/picons/digisport4.png",
     "url": "/nl/digi-4/tracks-v1a1/mono.m3u8",
-    "tvgId": "2922"
+    "tvgId": "digisport4"
   },
   {
     "name": "DiviSport 🇺🇦",
@@ -227,18 +227,18 @@
     "tvgId": "fox-soccer-plus-us"
   },
   {
-    "name": "FS 1",
+    "name": "FX Sports 1 🇺🇸",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7924.png",
     "url": "/nl/fs-1/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "fx-sports-1-us"
   },
   {
-    "name": "FS 2",
+    "name": "FX Sports 2 🇺🇸",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7925.png",
     "url": "/nl/fs-2/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "fx-sports-2-us"
   },
   {
     "name": "FUBO Sports Network 🇺🇸",
@@ -542,39 +542,39 @@
     "tvgId": "no_epg_sport"
   },
   {
-    "name": "TSN 1",
+    "name": "TSN 1 🇨🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",
     "url": "/nl/tsn-1/tracks-v1a1/mono.m3u8",
-    "tvgId": "3663"
+    "tvgId": "tsn1-ca"
   },
   {
-    "name": "TSN 2",
+    "name": "TSN 2 🇨🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png",
     "url": "/nl/tsn-2/tracks-v1a1/mono.m3u8",
-    "tvgId": "3635"
+    "tvgId": "tsn2-ca"
   },
   {
-    "name": "TSN 3",
+    "name": "TSN 3 🇨🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
     "url": "/nl/tsn-3/tracks-v1a1/mono.m3u8",
-    "tvgId": "3664"
+    "tvgId": "tsn3-ca"
   },
   {
-    "name": "TSN 4",
+    "name": "TSN 4 🇨🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png",
     "url": "/nl/tsn-4/tracks-v1a1/mono.m3u8",
-    "tvgId": "3588"
+    "tvgId": "tsn4-ca"
   },
   {
-    "name": "TSN 5",
+    "name": "TSN 5 🇨🇦",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png",
     "url": "/nl/tsn-5/tracks-v1a1/mono.m3u8",
-    "tvgId": ""
+    "tvgId": "tsn5-ca"
   },
   {
     "name": "WWE Network 🇺🇸",
