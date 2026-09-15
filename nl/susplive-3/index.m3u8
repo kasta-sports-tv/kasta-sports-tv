@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud_fhd6m",NAME="Українська",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="uk",URI="https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Olympic-Cam3/Olympic-Cam3__audio_uk_fhd6m.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=6556000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="aud_fhd6m"
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/Olympic-Cam3/Olympic-Cam3__video_fhd6m.m3u8
