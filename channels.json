@@ -570,6 +570,13 @@
     "tvgId": "suspilne-sport-ua"
   },
   {
+    "name": "Суспільне Спорт LIVE 1 🇺🇦",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/susplive-1.png",
+    "url": "/nl/susplive-1/index.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Телеканал Футбол 🏳",
     "group": "Спорт",
     "logo": "https://epg.iptvx.one/picons/football-ru.png",
