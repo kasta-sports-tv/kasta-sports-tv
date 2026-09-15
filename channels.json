@@ -283,6 +283,13 @@
     "tvgId": "megogo-sport"
   },
   {
+    "name": "Nascar Channel 🇺🇸",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/nascar.png",
+    "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00115-nascar-nascar-nascarnorthamerica/playlist.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Nova Sport BG 🇧🇬",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/novaspbg.png",
