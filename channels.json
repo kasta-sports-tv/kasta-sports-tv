@@ -472,6 +472,13 @@
     "tvgId": "supertennis"
   },
   {
+    "name": "WWE Network 🇺🇸",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/7929.png",
+    "url": "/nl/wwe/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Ziggo Sport 1 🇳🇱",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8368.png",
