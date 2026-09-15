@@ -569,11 +569,33 @@
     "url": "/nl/suspsport/index.m3u8",
     "tvgId": "suspilne-sport-ua"
   },
+
   {
     "name": "Суспільне Спорт LIVE 1 🇺🇦",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/susplive-1.png",
     "url": "/nl/susplive-1/index.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "Суспільне Спорт LIVE 2 🇺🇦",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/susplive-2.png",
+    "url": "/nl/susplive-2/index.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "Суспільне Спорт LIVE 3 🇺🇦",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/susplive-3.png",
+    "url": "/nl/susplive-3/index.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "Суспільне Спорт LIVE 4 🇺🇦",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/susplive-4.png",
+    "url": "/nl/susplive-4/index.m3u8",
     "tvgId": "no_epg_sport"
   },
   {
