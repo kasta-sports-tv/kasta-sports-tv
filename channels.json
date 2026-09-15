@@ -493,6 +493,13 @@
     "tvgId": "supertennis"
   },
   {
+    "name": "T2 🇺🇸",
+    "group": "Спорт",
+    "logo": "https://images.fubo.tv/station_logos/T2_live-tennis_m.png",
+    "url": "https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "WWE Network 🇺🇸",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7929.png",
