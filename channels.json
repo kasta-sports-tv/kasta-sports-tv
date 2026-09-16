@@ -241,11 +241,11 @@
     "tvgId": "m4sport-hu"
   },
   {
-    "name": "Cosmote Sport 1",
+    "name": "Magenta Sport 1 🇬🇷",
     "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/a544c21630100843.png",
-    "url": "/nl/cosmot-1/tracks-v1a1/index.m3u8",
-    "tvgId": "9251"
+    "logo": "https://www.thesportsdb.com/images/media/channel/logo/dqalbp1789194525.png",
+    "url": "/nl/cosmot-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "cosmote-sport1-gr"
   },
   {
     "name": "Maincast Sport 🇺🇦",
