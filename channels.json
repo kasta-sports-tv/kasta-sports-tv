@@ -374,6 +374,34 @@
     "tvgId": "setanta-prem-ua"
   },
   {
+    "name": "Silk Sport 1 🇬🇪",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/9594.png",
+    "url": "http://194.135.119.83:8080/silksport1/index.m3u8",
+    "tvgId": "Silk1"
+  },
+  {
+    "name": "Silk Sport 2 🇬🇪",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/9595.png",
+    "url": "http://194.135.119.83:8080/silksport2/index.m3u8",
+    "tvgId": "Silk2"
+  },
+  {
+    "name": "Silk Sport 3 🇬🇪",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/9596.png",
+    "url": "http://194.135.119.83:8080/silksport3/index.m3u8",
+    "tvgId": "Silk3"
+  },
+  {
+    "name": "Silk Universal 🇬🇪",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8330.png",
+    "url": "http://194.135.119.83:8080/silk_sport4/index.m3u8",
+    "tvgId": "Silk_Universal"
+  },
+  {
     "name": "Sky Sports Football 🇬🇧",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/7920.png",
