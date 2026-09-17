@@ -94,6 +94,20 @@
     "tvgId": "bTV_Action"
   },
   {
+    "name": "Canal+ Extra 1 🇵🇱",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/10272.png",
+    "url": "/nl/canalextra-1pl/tracks-v1a1/mono.m3u8",
+    "tvgId": "canal-pl-extra-1"
+  },
+  {
+    "name": "Canal+ Extra 2 🇵🇱",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/10273.png",
+    "url": "/nl/canalextra-2pl/tracks-v1a1/mono.m3u8",
+    "tvgId": "canal-pl-extra-2"
+  },
+  {
     "name": "Combate 🇧🇷",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wqqpuy1437611123.png",
