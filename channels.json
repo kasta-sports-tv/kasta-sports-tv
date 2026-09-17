@@ -7,6 +7,13 @@
     "tvgId": "no_epg_sport"
   },
   {
+    "name": "Arena Premium 1 🇷🇸",
+    "group": "Тест",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16051.m3u8",
+    "tvgId": "arena-premium-1"
+  },
+  {
     "name": "Betking Live 1 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8751.png",
