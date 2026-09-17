@@ -688,5 +688,12 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal%2B_Live_1.png",
     "url": "/nl/canalpluslive-1/tracks-v1a1/mono.m3u8",
     "tvgId": "no_epg_sport"
+  },
+  {
+    "name": "Canal+ Live 2 🇫🇷",
+    "group": "Тест",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3d/Canal%2B_Live_2.png",
+    "url": "/nl/canalpluslive-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "no_epg_sport"
   }
 ]
