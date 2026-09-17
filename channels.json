@@ -693,7 +693,7 @@
     "name": "Canal+ Live 2 🇫🇷",
     "group": "Тест",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3d/Canal%2B_Live_2.png",
-    "url": "/nl/canalpluslive-2/tracks-v1a1/mono.m3u8",
+    "url": "/nl/canalpluslive-2/index.m3u8",
     "tvgId": "no_epg_sport"
   }
 ]
