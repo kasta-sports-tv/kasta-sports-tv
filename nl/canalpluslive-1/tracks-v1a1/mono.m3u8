@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:1,
+https://live.jalatech.ps/canal_live_1_fhd/mpegts?token=71f21ba4f7b1e208511f8646658a22d7
