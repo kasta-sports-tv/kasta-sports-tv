@@ -176,7 +176,7 @@ https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playli
 https://ua.kasta-sports-tv.workers.dev/play/nl/tnt-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="bt-sport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT Sports 2 🇬🇧
 https://ua.kasta-sports-tv.workers.dev/play/nl/tnt-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q3ywua1581860664.png",UFC Fight Pass 🇬🇧
+#EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q3ywua1581860664.png",UFC Fight Pass 🇺🇸
 https://ua.kasta-sports-tv.workers.dev/play/nl/ufc/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="http://1lot.tv/ch/7929.png",WWE Network 🇺🇸
 https://ua.kasta-sports-tv.workers.dev/play/nl/wwe/tracks-v1a1/mono.m3u8
