@@ -8,10 +8,24 @@
   },
   {
     "name": "Arena Premium 1 🇷🇸",
-    "group": "Тест",
+    "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png",
     "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16051.m3u8",
     "tvgId": "arena-premium-1"
+  },
+  {
+    "name": "Arena Premium 2 🇷🇸",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16052.m3u8",
+    "tvgId": "arena-premium-2"
+  },
+  {
+    "name": "Arena Premium 3 🇷🇸",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16053.m3u8",
+    "tvgId": "arena-premium-3"
   },
   {
     "name": "Betking Live 1 🇺🇦",
