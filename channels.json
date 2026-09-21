@@ -28,6 +28,76 @@
     "tvgId": "arena-premium-3"
   },
   {
+    "name": "Arena Sport 1 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/48.m3u8",
+    "tvgId": "arena-sport-1-hr"
+  },
+  {
+    "name": "Arena Sport 2 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/49.m3u8",
+    "tvgId": "arena-sport-2-hr"
+  },
+  {
+    "name": "Arena Sport 3 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/nnqoda1643205755.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/50.m3u8",
+    "tvgId": "arena-sport-3-hr"
+  },
+  {
+    "name": "Arena Sport 4 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/6oo0y71643205763.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/51.m3u8",
+    "tvgId": "arena-sport-4-hr"
+  },
+  {
+    "name": "Arena Sport 5 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/262.m3u8",
+    "tvgId": "arena-sport-5-hr"
+  },
+  {
+    "name": "Arena Sport 6 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/3htl2t1643205783.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/935.m3u8",
+    "tvgId": "arena-sport-6-hr"
+  },
+  {
+    "name": "Arena Sport 7 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/jec0d31643205801.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15862.m3u8",
+    "tvgId": "arena-sport-7-hr"
+  },
+  {
+    "name": "Arena Sport 8 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15863.m3u8",
+    "tvgId": "arena-sport-8-hr"
+  },
+  {
+    "name": "Arena Sport 9 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/zuhnap1643205837.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15864.m3u8",
+    "tvgId": "arena-sport-9-hr"
+  },
+  {
+    "name": "Arena Sport 10 🇭🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
+    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15865.m3u8",
+    "tvgId": "arena-sport-10-hr"
+  },
+  {
     "name": "Betking Live 1 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8751.png",
