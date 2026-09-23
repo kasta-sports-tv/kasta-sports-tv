@@ -98,6 +98,20 @@
     "tvgId": "arena-sport-10-hr"
   },
   {
+    "name": "beIN Sports 1 🇫🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/y8m9j21631279281.png",
+    "url": "/nl/bein-1fr/tracks-v1a1/mono.m3u8",
+    "tvgId": "bein-sport-1-fr"
+  },
+  {
+    "name": "beIN Sports 2 🇫🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qndarh1631279295.png",
+    "url": "/nl/bein-2fr/tracks-v1a1/mono.m3u8",
+    "tvgId": "bein-sport-2-fr"
+  },
+  {
     "name": "Betking Live 1 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/8751.png",
