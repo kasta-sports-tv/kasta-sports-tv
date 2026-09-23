@@ -661,6 +661,13 @@
     "tvgId": "bt-sport2"
   },
   {
+    "name": "TNT Sports 3 🇬🇧",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",
+    "url": "/nl/tnt-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "bt-sport3"
+  },
+  {
     "name": "UFC Fight Pass 🇺🇸",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/q3ywua1581860664.png",
