@@ -199,20 +199,6 @@
     "tvgId": "bTV_Action"
   },
   {
-    "name": "Canal+ Extra 1 🇵🇱",
-    "group": "Спорт",
-    "logo": "http://1lot.tv/ch/10272.png",
-    "url": "/nl/canalextra-1pl/tracks-v1a1/mono.m3u8",
-    "tvgId": "canal-pl-extra-1"
-  },
-  {
-    "name": "Canal+ Extra 2 🇵🇱",
-    "group": "Спорт",
-    "logo": "http://1lot.tv/ch/10273.png",
-    "url": "/nl/canalextra-2pl/tracks-v1a1/mono.m3u8",
-    "tvgId": "canal-pl-extra-2"
-  },
-  {
     "name": "Combate 🇧🇷",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wqqpuy1437611123.png",
@@ -281,20 +267,6 @@
     "logo": "https://kasta-sports-tv.pages.dev/logo/espn-4br.png",
     "url": "/nl/espn-4br/tracks-v1a1/mono.m3u8",
     "tvgId": "no_epg_sport"
-  },
-  {
-    "name": "ESPN NL 🇳🇱",
-    "group": "Спорт",
-    "logo": "http://1lot.tv/ch/10065.png",
-    "url": "http://176.65.153.6:3001/play/a009/index.m3u8",
-    "tvgId": "espn1-nl"
-  },
-  {
-    "name": "ESPN 2 NL 🇳🇱",
-    "group": "Спорт",
-    "logo": "http://1lot.tv/ch/10066.png",
-    "url": "http://176.65.153.6:3001/play/a00q/index.m3u8",
-    "tvgId": "espn2-nl"
   },
   {
     "name": "Eurosport 1 🏳",
@@ -736,13 +708,6 @@
     "logo": "http://1lot.tv/ch/7929.png",
     "url": "/nl/wwe/tracks-v1a1/mono.m3u8",
     "tvgId": "no_epg_sport"
-  },
-  {
-    "name": "Ziggo Sport 1 🇳🇱",
-    "group": "Спорт",
-    "logo": "http://1lot.tv/ch/8368.png",
-    "url": "http://176.65.153.6:3002/play/a00e/index.m3u8",
-    "tvgId": "ziggo-sport1-nl"
   },
   {
     "name": "Матч! ТВ 🏳",
