@@ -612,6 +612,41 @@
     "tvgId": "sportdigital-fussball"
   },
   {
+    "name": "Sport TV 1 🇵🇹",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+    "url": "/nl/sporttv-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "sporttv1-pt"
+  },
+  {
+    "name": "Sport TV 2 🇵🇹",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+    "url": "/nl/sporttv-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "sporttv2-pt"
+  },
+  {
+    "name": "Sport TV 3 🇵🇹",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",
+    "url": "/nl/sporttv-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "sporttv3-pt"
+  },
+  {
+    "name": "Sport TV 4 🇵🇹",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png",
+    "url": "/nl/sporttv-4/tracks-v1a1/mono.m3u8",
+    "tvgId": "sporttv4-pt"
+  },
+  {
+    "name": "Sport TV 5 🇵🇹",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png",
+    "url": "/nl/sporttv-5/tracks-v1a1/mono.m3u8",
+    "tvgId": "sporttv5-pt"
+  },
+  {
     "name": "SporTV 🇧🇷",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ruvrus1437612002.png",
