@@ -246,8 +246,3 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/susplive-3/index.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/susplive-4/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://epg.iptvx.one/picons/football-ru.png",Телеканал Футбол 🏳
 https://ua.kasta-sports-tv.workers.dev/play/nl/football/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Тест" tvg-id="no_epg_sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal%2B_Live_1.png",Canal+ Live 1 🇫🇷
-https://ua.kasta-sports-tv.workers.dev/play/nl/canalpluslive-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="no_epg_sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Canal%2B_Live_2.png",Canal+ Live 2 🇫🇷
-https://ua.kasta-sports-tv.workers.dev/play/nl/canalpluslive-2/tracks-v1a1/mono.m3u8
