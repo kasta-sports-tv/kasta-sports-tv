@@ -182,6 +182,16 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/sport-3ua/tracks-v1a1/mono.m3u8
 http://92.114.85.52:1453/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportdigital-fussball" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",Sport Digital Fussball 🇩🇪
 http://92.114.85.52:1453/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sporttv1-pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",Sport TV 1 🇵🇹
+https://ua.kasta-sports-tv.workers.dev/play/nl/sporttv-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sporttv2-pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",Sport TV 2 🇵🇹
+https://ua.kasta-sports-tv.workers.dev/play/nl/sporttv-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sporttv3-pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",Sport TV 3 🇵🇹
+https://ua.kasta-sports-tv.workers.dev/play/nl/sporttv-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sporttv4-pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png",Sport TV 4 🇵🇹
+https://ua.kasta-sports-tv.workers.dev/play/nl/sporttv-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sporttv5-pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png",Sport TV 5 🇵🇹
+https://ua.kasta-sports-tv.workers.dev/play/nl/sporttv-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ruvrus1437612002.png",SporTV 🇧🇷
 https://ua.kasta-sports-tv.workers.dev/play/nl/sportv-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rspqxw1437612159.png",SporTV 2 🇧🇷
