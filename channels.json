@@ -835,5 +835,12 @@
     "logo": "https://epg.iptvx.one/picons/football-ru.png",
     "url": "/nl/football/tracks-v1a1/mono.m3u8",
     "tvgId": "football-ru"
+  },
+  {
+    "name": "Окко Event 1 🏳",
+    "group": "Тест",
+    "logo": "",
+    "url": "/nl/okko-1/tracks-v1a1/mono.m3u8",
+    "tvgId": ""
   }
 ]
