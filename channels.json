@@ -199,6 +199,62 @@
     "tvgId": "bTV_Action"
   },
   {
+    "name": "Canal+ Sport 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-cz"
+  },
+  {
+    "name": "Canal+ Sport 2 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport2-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-2-cz"
+  },
+  {
+    "name": "Canal+ Sport 3 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport3-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-3-cz"
+  },
+  {
+    "name": "Canal+ Sport 4 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport4-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-4-cz"
+  },
+  {
+    "name": "Canal+ Sport 5 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport5-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-5-cz"
+  },
+  {
+    "name": "Canal+ Sport 6 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport6-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-6-cz"
+  },
+  {
+    "name": "Canal+ Sport 7 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport7-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-7-cz"
+  },
+  {
+    "name": "Canal+ Sport 8 🇨🇿",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/canal-pl-sport8-cz.png",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0",
+    "tvgId": "canal-pl-sport-8-cz"
+  },
+  {
     "name": "Combate 🇧🇷",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wqqpuy1437611123.png",
