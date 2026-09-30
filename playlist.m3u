@@ -64,6 +64,22 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-3/tracks-v1a1/mono.m
 https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="bTV_Action_bg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xquxqt1441478239.png",BTV Action 🇧🇬
 https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport-cz.png",Canal+ Sport 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport2-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport2-cz.png",Canal+ Sport 2 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport3-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport3-cz.png",Canal+ Sport 3 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport4-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport4-cz.png",Canal+ Sport 4 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport5-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport5-cz.png",Canal+ Sport 5 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport6-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport6-cz.png",Canal+ Sport 6 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport7-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport7-cz.png",Canal+ Sport 7 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport8-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport8-cz.png",Canal+ Sport 8 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wqqpuy1437611123.png",Combate 🇧🇷
 https://ua.kasta-sports-tv.workers.dev/play/nl/combate/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="ct-sport" tvg-logo="http://1lot.tv/ch/8577.png",CT Sport 🇨🇿
