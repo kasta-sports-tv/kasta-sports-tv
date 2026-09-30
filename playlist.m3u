@@ -120,6 +120,18 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/maxsp-4/tracks-v1a1/mono.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/megosp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="no_epg_sport" tvg-logo="https://kasta-sports-tv.pages.dev/logo/nascar.png",Nascar Channel 🇺🇸
 https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00115-nascar-nascar-nascarnorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="nova-sport1-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sport 1 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport1/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="nova-sport2-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gymhfv1649341436.png",Nova Sport 2 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="nova-sport3-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",Nova Sport 3 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="nova-sport4-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59o8o81649341463.png",Nova Sport 4 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="nova-sport5-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8q3uib1740774739.png",Nova Sport 5 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Спорт" tvg-id="nova-sport6-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qnsmro1740774835.png",Nova Sport 6 🇨🇿
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd?offsetSeconds=0
 #EXTINF:-1 group-title="Спорт" tvg-id="nova-sport-bg" tvg-logo="https://kasta-sports-tv.pages.dev/logo/novaspbg.png",Nova Sport BG 🇧🇬
 https://ua.kasta-sports-tv.workers.dev/play/nl/novaspbg/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="one-il" tvg-logo="https://kasta-sports-tv.pages.dev/logo/one-1.png",ONE 1 🇮🇱
