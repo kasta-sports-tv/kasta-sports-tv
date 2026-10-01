@@ -276,7 +276,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/susplive-4/index.m3u8
 https://ua.kasta-sports-tv.workers.dev/play/nl/football/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Тест" tvg-id="" tvg-logo="",тест
-#EXTVLCOPT:http-referrer=https://sunduk.live/
+#EXTVLCOPT:http-referrer=https://sunduk.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
 https://cdn.telecloud.tv/CH3303/index.m3u8
 
