@@ -556,6 +556,27 @@
     "tvgId": "ring-bg"
   },
   {
+    "name": "S Sport 🇹🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png",
+    "url": "https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8",
+    "tvgId": "s-sport-tr"
+  },
+  {
+    "name": "S Sport 2 🇹🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/nrrvxp1643201048.png",
+    "url": "https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8",
+    "tvgId": "s-sport-2-tr"
+  },
+  {
+    "name": "S Sport+ 1 🇹🇷",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/iad1yp1643201082.png",
+    "url": "https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8",
+    "tvgId": "no_epg_sport"
+  },
+  {
     "name": "Setanta Sports 1 🌏",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-1.png",
