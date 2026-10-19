@@ -290,6 +290,34 @@
     "tvgId": "diema-sport-3"
   },
   {
+    "name": "DIGI Sport 1 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/digisport1.png",
+    "url": "/nl/digi-1/tracks-v1a1/mono.m3u8",
+    "tvgId": "digisport1"
+  },
+  {
+    "name": "DIGI Sport 2 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/digisport2.png",
+    "url": "/nl/digi-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "digisport2"
+  },
+  {
+    "name": "DIGI Sport 3 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/digisport3.png",
+    "url": "/nl/digi-3/tracks-v1a1/mono.m3u8",
+    "tvgId": "digisport3"
+  },
+  {
+    "name": "DIGI Sport 4 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://epg.iptvx.one/picons/digisport4.png",
+    "url": "/nl/digi-4/tracks-v1a1/mono.m3u8",
+    "tvgId": "digisport4"
+  },
+  {
     "name": "DiviSport 🇺🇦",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/10249.png",
