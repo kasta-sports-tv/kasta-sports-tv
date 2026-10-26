@@ -64,6 +64,8 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-3/tracks-v1a1/mono.m
 https://ua.kasta-sports-tv.workers.dev/play/nl/boxsportcast-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="bTV_Action_bg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xquxqt1441478239.png",BTV Action 🇧🇬
 https://ua.kasta-sports-tv.workers.dev/play/nl/btvact/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="" tvg-logo="https://kasta-sports-tv.pages.dev/logo/cazetv.png",Caze TV 🇧🇷
+https://ua.kasta-sports-tv.workers.dev/play/nl/cazetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport-cz.png",Canal+ Sport 🇨🇿
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 group-title="Спорт" tvg-id="canal-pl-sport2-cz" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport2-cz.png",Canal+ Sport 2 🇨🇿
