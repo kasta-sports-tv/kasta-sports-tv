@@ -308,3 +308,7 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/football/tracks-v1a1/mono.m3u8
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-id="kvartal-tv" tvg-logo="https://epg.iptvx.one/picons/kvartal-tv.png",RAZ 3
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="dacha" tvg-logo="http://1lot.tv/ch/6184.png",Дача
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="rybalka" tvg-logo="http://1lot.tv/ch/7744.png",Рибалка
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
