@@ -308,6 +308,10 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/football/tracks-v1a1/mono.m3u8
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-id="1plus1" tvg-logo="http://1lot.tv/ch/0151.png",1+1 Марафон
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="36-6-tv" tvg-logo="https://epg.iptvx.one/picons/36-6-tv.png",36.6
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Україна" tvg-id="filmua-drama" tvg-logo="http://1lot.tv/ch/6303.png",Film.UA Drama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-id="kvartal-tv" tvg-logo="https://epg.iptvx.one/picons/kvartal-tv.png",RAZ 3
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 group-title="Україна" tvg-id="star-cinema-ua" tvg-logo="http://1lot.tv/ch/826.png",Star Cinema
