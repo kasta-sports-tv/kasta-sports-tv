@@ -1037,6 +1037,20 @@
     "tvgId": "1plus1"
   },
   {
+    "name": "36.6",
+    "group": "Україна",
+    "logo": "https://epg.iptvx.one/picons/36-6-tv.png",
+    "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
+    "tvgId": "36-6-tv"
+  },
+  {
+    "name": "Film.UA Drama",
+    "group": "Україна",
+    "logo": "http://1lot.tv/ch/6303.png",
+    "url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
+    "tvgId": "filmua-drama"
+  },
+  {
     "name": "RAZ 3",
     "group": "Україна",
     "logo": "https://epg.iptvx.one/picons/kvartal-tv.png",
@@ -1056,6 +1070,20 @@
     "logo": "http://1lot.tv/ch/6184.png",
     "url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8",
     "tvgId": "dacha"
+  },
+  {
+    "name": "Дім",
+    "group": "Україна",
+    "logo": "http://1lot.tv/ch/7753.png",
+    "url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8",
+    "tvgId": "dom"
+  },
+  {
+    "name": "Кус-Кус",
+    "group": "Україна",
+    "logo": "https://epg.iptvx.one/picons/kus-kus.png",
+    "url": "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8",
+    "tvgId": "kus-kus"
   },
   {
     "name": "Рибалка",
