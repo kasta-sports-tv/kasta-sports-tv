@@ -304,6 +304,6 @@ https://ua.kasta-sports-tv.workers.dev/play/nl/susplive-4/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://epg.iptvx.one/picons/football-ru.png",Телеканал Футбол 🏳
 https://ua.kasta-sports-tv.workers.dev/play/nl/football/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Україна" tvg-id="2plus2" tvg-logo="https://youtv.ua/static/tv/278_7e0e44e70500397b.jpg",2+2
-http://93.186.202.42:6881/ace/manifest.m3u8?infohash=6fff8caf7a5a2214e061c64ac8846152430b9324&pid=25
+#EXTINF:-1 group-title="Україна" tvg-id="1plus1-int" tvg-logo="http://1lot.tv/ch/0195.png",1+1 International
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 
