@@ -1035,5 +1035,19 @@
     "logo": "https://epg.iptvx.one/picons/kvartal-tv.png",
     "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
     "tvgId": "kvartal-tv"
+  },
+  {
+    "name": "Дача",
+    "group": "Україна",
+    "logo": "http://1lot.tv/ch/6184.png",
+    "url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8",
+    "tvgId": "dacha"
+  },
+  {
+    "name": "Рибалка",
+    "group": "Україна",
+    "logo": "http://1lot.tv/ch/7744.png",
+    "url": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8",
+    "tvgId": "rybalka"
   }
 ]
