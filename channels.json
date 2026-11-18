@@ -1023,10 +1023,10 @@
     "tvgId": "football-ru"
   },
   {
-    "name": "2+2",
+    "name": "1+1 International",
     "group": "Україна",
-    "logo": "https://youtv.ua/static/tv/278_7e0e44e70500397b.jpg",
-    "url": "http://93.186.202.42:6881/ace/manifest.m3u8?infohash=6fff8caf7a5a2214e061c64ac8846152430b9324&pid=25",
-    "tvgId": "2plus2"
+    "logo": "http://1lot.tv/ch/0195.png",
+    "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+    "tvgId": "1plus1-int"
   }
 ]
