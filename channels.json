@@ -1086,6 +1086,13 @@
     "tvgId": "kus-kus"
   },
   {
+    "name": "Мега",
+    "group": "Україна",
+    "logo": "http://1lot.tv/ch/0171.png",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
+    "tvgId": "mega-ua"
+  },
+  {
     "name": "Рибалка",
     "group": "Україна",
     "logo": "https://epg.iptvx.one/picons/rybalka.png",
