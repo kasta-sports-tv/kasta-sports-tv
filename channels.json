@@ -435,9 +435,23 @@
   {
     "name": "Go3 Sport 1 🇱🇻",
     "group": "Спорт",
-    "logo": "https://epg.iptvx.one/picons/tvplay-sports.png",
+    "logo": "http://1lot.tv/ch/10503.png",
     "url": "/nl/go3sp-1/tracks-v1a1/mono.m3u8",
     "tvgId": "tvplay-sports"
+  },
+  {
+    "name": "Go3 Sport 2 🇱🇻",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/10504.png",
+    "url": "/nl/go3sp-2/tracks-v1a1/mono.m3u8",
+    "tvgId": "tvplay-sports-plus"
+  },
+  {
+    "name": "Go3 Sport Open 🇱🇻",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/8180.png",
+    "url": "/nl/go3open/tracks-v1a1/mono.m3u8",
+    "tvgId": "tv3-sport-open"
   },
   {
     "name": "JOJ Sport 🇨🇿",
