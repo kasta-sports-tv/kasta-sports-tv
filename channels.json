@@ -615,6 +615,51 @@
     "tvgId": "polsat-sport-extra"
   },
   {
+    "name": "Prima Sport 1 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png",
+    "url": "https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8",
+    "referrer": "https://cool-tv.net/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "tvgId": "prima-sport-1"
+  },
+  {
+    "name": "Prima Sport 2 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/urbckf1656958338.png",
+    "url": "https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8",
+    "referrer": "https://cool-tv.net/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "tvgId": "prima-sport-2"
+  },
+  {
+    "name": "Prima Sport 3 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/pirzmo1656958353.png",
+    "url": "https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8",
+    "referrer": "https://cool-tv.net/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "tvgId": "prima-sport-3"
+  },
+  {
+    "name": "Prima Sport 4 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/8yu0gp1656958366.png",
+    "url": "https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8",
+    "referrer": "https://cool-tv.net/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "tvgId": "prima-sport-4"
+  },
+  {
+    "name": "Prima Sport 5 🇷🇴",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/primasp-5.png",
+    "url": "https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8",
+    "referrer": "https://cool-tv.net/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "tvgId": "prima-sport-5"
+  },
+  {
     "name": "QazSport 🇰🇿",
     "group": "Спорт",
     "logo": "http://1lot.tv/ch/9118.png",
