@@ -223,6 +223,16 @@ http://194.135.119.83:8080/silk_sport4/index.m3u8
 http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/15939.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sky-sports-football" tvg-logo="http://1lot.tv/ch/7920.png",Sky Sports Football 🇬🇧
 https://ua.kasta-sports-tv.workers.dev/play/nl/skyfootuk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sony-sports-ten1-in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png",Sony Sports Ten 1 🇮🇳
+https://ua.kasta-sports-tv.workers.dev/play/nl/sony-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sony-sports-ten2-in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png",Sony Sports Ten 2 🇮🇳
+https://ua.kasta-sports-tv.workers.dev/play/nl/sony-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sony-sports-ten3-in" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/f/ff/Sony_Sports_Ten_3.png",Sony Sports Ten 3 🇮🇳
+https://ua.kasta-sports-tv.workers.dev/play/nl/sony-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sony-sports-ten4-in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png",Sony Sports Ten 4 🇮🇳
+https://ua.kasta-sports-tv.workers.dev/play/nl/sony-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="sony-sports-ten5-in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png",Sony Sports Ten 5 🇮🇳
+https://ua.kasta-sports-tv.workers.dev/play/nl/sony-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sport-1-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",Sport 1 CZ 🇨🇿
 http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sport-2-cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",Sport 2 CZ 🇨🇿
