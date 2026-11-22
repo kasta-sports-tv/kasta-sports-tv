@@ -1,103 +1,5 @@
 [
   {
-    "name": "Arena Sport 1×2 🇷🇸",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ih14ab1646222134.png",
-    "url": "/nl/arena-1×2/tracks-v1a1/mono.m3u8",
-    "tvgId": "no_epg_sport"
-  },
-  {
-    "name": "Arena Premium 1 🇷🇸",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/16051.m3u8",
-    "tvgId": "arena-premium-1"
-  },
-  {
-    "name": "Arena Premium 2 🇷🇸",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/16052.m3u8",
-    "tvgId": "arena-premium-2"
-  },
-  {
-    "name": "Arena Premium 3 🇷🇸",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png",
-    "url": "http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16053.m3u8",
-    "tvgId": "arena-premium-3"
-  },
-  {
-    "name": "Arena Sport 1 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/48.m3u8",
-    "tvgId": "arena-sport-1-hr"
-  },
-  {
-    "name": "Arena Sport 2 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/do4eok1643205747.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/49.m3u8",
-    "tvgId": "arena-sport-2-hr"
-  },
-  {
-    "name": "Arena Sport 3 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/nnqoda1643205755.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/50.m3u8",
-    "tvgId": "arena-sport-3-hr"
-  },
-  {
-    "name": "Arena Sport 4 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/6oo0y71643205763.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/51.m3u8",
-    "tvgId": "arena-sport-4-hr"
-  },
-  {
-    "name": "Arena Sport 5 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/262.m3u8",
-    "tvgId": "arena-sport-5-hr"
-  },
-  {
-    "name": "Arena Sport 6 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/3htl2t1643205783.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/935.m3u8",
-    "tvgId": "arena-sport-6-hr"
-  },
-  {
-    "name": "Arena Sport 7 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/jec0d31643205801.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/15862.m3u8",
-    "tvgId": "arena-sport-7-hr"
-  },
-  {
-    "name": "Arena Sport 8 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/3ch2k51643205817.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/15863.m3u8",
-    "tvgId": "arena-sport-8-hr"
-  },
-  {
-    "name": "Arena Sport 9 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/zuhnap1643205837.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/15864.m3u8",
-    "tvgId": "arena-sport-9-hr"
-  },
-  {
-    "name": "Arena Sport 10 🇭🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/hd6nx11643205736.png",
-    "url": "http://apolonbox.online:80/live/5940E07A1D4E8E8809EEADF6FBDD938B/15865.m3u8",
-    "tvgId": "arena-sport-10-hr"
-  },
-  {
     "name": "beIN Sports 1 🇫🇷",
     "group": "Спорт",
     "logo": "https://r2.thesportsdb.com/images/media/channel/logo/y8m9j21631279281.png",
@@ -253,6 +155,13 @@
     "logo": "https://epg.iptvx.one/picons/canal-pl-sport-8-cz.png",
     "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0",
     "tvgId": "canal-pl-sport-8-cz"
+  },
+  {
+    "name": "Caze TV 🇧🇷",
+    "group": "Спорт",
+    "logo": "https://kasta-sports-tv.pages.dev/logo/cazetv.png",
+    "url": "/nl/cazetv/tracks-v1a1/mono.m3u8",
+    "tvgId": "cazetv"
   },
   {
     "name": "Combate 🇧🇷",
