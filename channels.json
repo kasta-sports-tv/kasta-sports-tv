@@ -685,11 +685,25 @@
     "tvgId": "sky-sport-aus"
   },
   {
+    "name": "Sky Sports F1 🇬🇧",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/11604.png",
+    "url": "/nl/skyf1/tracks-v1a1/mono.m3u8",
+    "tvgId": "skysportsf1.uk"
+  },
+  {
     "name": "Sky Sports Football 🇬🇧",
     "group": "Спорт",
-    "logo": "http://1lot.tv/ch/7920.png",
+    "logo": "http://1lot.tv/ch/11601.png",
     "url": "/nl/skyfootuk/tracks-v1a1/mono.m3u8",
-    "tvgId": "sky-sports-football"
+    "tvgId": "skysportsfootball.uk"
+  },
+  {
+    "name": "Sky Sports Tennis 🇬🇧",
+    "group": "Спорт",
+    "logo": "http://1lot.tv/ch/11605.png",
+    "url": "/nl/skyten/tracks-v1a1/mono.m3u8",
+    "tvgId": "SkySportsTennis.uk"
   },
   {
     "name": "Sony Sports Ten 1 🇮🇳",
