@@ -161,7 +161,7 @@
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/cazetv.png",
     "url": "/nl/cazetv/tracks-v1a1/mono.m3u8",
-    "tvgId": "cazetv"
+    "tvgId": "no_epg_sport"
   },
   {
     "name": "Combate 🇧🇷",
@@ -599,13 +599,6 @@
     "tvgId": "s-sport-2-tr"
   },
   {
-    "name": "S Sport+ 🇹🇷",
-    "group": "Спорт",
-    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/iad1yp1643201082.png",
-    "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivessplus1.m3u8",
-    "tvgId": "no_epg_sport"
-  },
-  {
     "name": "Setanta Sports 1 🌏",
     "group": "Спорт",
     "logo": "https://kasta-sports-tv.pages.dev/logo/set-1.png",
@@ -699,35 +692,35 @@
   {
     "name": "Sony Sports Ten 1 🇮🇳",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png",
+    "logo": "https://epg.iptvx.one/picons/sony-sports-ten1-in.png",
     "url": "/nl/sony-1/tracks-v1a1/mono.m3u8",
     "tvgId": "sony-sports-ten1-in"
   },
   {
     "name": "Sony Sports Ten 2 🇮🇳",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png",
+    "logo": "https://epg.iptvx.one/picons/sony-sports-ten2-in.png",
     "url": "/nl/sony-2/tracks-v1a1/mono.m3u8",
     "tvgId": "sony-sports-ten2-in"
   },
   {
     "name": "Sony Sports Ten 3 🇮🇳",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/dreamlogos/images/f/ff/Sony_Sports_Ten_3.png",
+    "logo": "https://epg.iptvx.one/picons/sony-sports-ten3-in.png",
     "url": "/nl/sony-3/tracks-v1a1/mono.m3u8",
     "tvgId": "sony-sports-ten3-in"
   },
   {
     "name": "Sony Sports Ten 4 🇮🇳",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png",
+    "logo": "https://epg.iptvx.one/picons/sony-sports-ten4-in.png",
     "url": "/nl/sony-4/tracks-v1a1/mono.m3u8",
     "tvgId": "sony-sports-ten4-in"
   },
   {
     "name": "Sony Sports Ten 5 🇮🇳",
     "group": "Спорт",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png",
+    "logo": "https://epg.iptvx.one/picons/sony-sports-ten5-in.png",
     "url": "/nl/sony-5/tracks-v1a1/mono.m3u8",
     "tvgId": "sony-sports-ten5-in"
   },
